@@ -1,0 +1,1283 @@
+posting_id,release,company_id,title,country_code,city,posted_date,closed_date,salary_min,salary_max,currency,source
+100001,2026-09,40,Software Engineer,GH,Accra,2026-07-20,2026-08-25,82000.0,117800.0,GHS,jobboard_b
+100002,2026-09,31,Mobile Developer,NG,Abuja,2026-08-18,,19842000.0,22267500.0,NGN,company_site
+100003,2026-09,12,DevOps Engineer,ZA,Cape Town,2026-07-19,,696000.0,854500.0,ZAR,jobboard_a
+100004,2026-09,24,Finance Analyst,FR,Paris,2026-07-16,,53700.0,64400.0,EUR,jobboard_a
+100005,2026-09,39,Software Engineer,NG,Abuja,2026-06-10,2026-07-21,16551000.0,20677200.0,NGN,company_site
+100006,2026-09,34,HR Manager,ZA,Cape Town,2026-06-30,,456000.0,542900.0,ZAR,company_site
+100007,2026-09,24,Analyste de données,FR,Lyon,2026-06-12,,48200.0,58200.0,EUR,jobboard_b
+100008,2026-09,26,Finance Analyst,US,New York,2026-08-14,,112300.0,141800.0,USD,jobboard_b
+100009,2026-09,18,Data Analyst,ZA,Cape Town,2026-06-15,,,,,company_site
+100010,2026-09,10,HR Manager,NG,Lagos,2026-08-09,,,,,jobboard_a
+100011,2026-09,27,Mobile Developer,US,Austin,2026-07-10,2026-08-17,118500.0,187100.0,USD,jobboard_a
+100012,2026-09,18,Product Manager,RW,Kigali,2026-08-12,2026-08-28,,,,jobboard_a
+100013,2026-09,24,Analyste de données,FR,Paris,2026-08-28,,32300.0,48700.0,EUR,jobboard_a
+100014,2026-09,29,Backend Engineer,ZA,Cape Town,2026-07-15,,1043000.0,1367400.0,ZAR,jobboard_b
+100015,2026-09,16,HR Manager,GH,Accra,2026-08-20,,,,,jobboard_a
+100016,2026-09,31,DevOps Engineer,KE,Mombasa,2026-07-08,,4096000.0,5833100.0,KES,jobboard_a
+100017,2026-09,14,Accountant,ZA,Johannesburg,2026-07-28,,,,,company_site
+100018,2026-09,19,UX Designer,UG,Kampala,2026-06-03,2026-06-30,,,,jobboard_a
+100019,2026-09,14,Product Manager,ZA,Cape Town,2026-07-25,,681000.0,773000.0,ZAR,jobboard_a
+100020,2026-09,2,Développeur logiciel,FR,Paris,2026-06-14,,,,,jobboard_a
+100021,2026-09,18,Data Scientist,RW,Kigali,2026-08-22,,3436000.0,5435600.0,RWF,jobboard_a
+100022,2026-09,37,Data Analyst,KE,Nairobi,2026-06-04,,1458000.0,2231600.0,KES,jobboard_b
+100023,2026-09,16,Sales Associate,GH,Accra,2026-06-17,,125000.0,170600.0,GHS,jobboard_a
+100024,2026-09,11,QA Engineer,RW,Kigali,2026-07-25,,8256000.0,10185000.0,RWF,jobboard_a
+100025,2026-09,35,Finance Analyst,NG,Abuja,2026-06-20,,6119000.0,6963400.0,NGN,company_site
+100026,2026-09,23,Chef de produit,FR,Paris,2026-08-31,,26900.0,39700.0,EUR,jobboard_a
+100027,2026-09,30,Backend Engineer,TZ,Dar es Salaam,2026-06-12,2026-07-24,13553000.0,17940100.0,TZS,company_site
+100028,2026-09,8,DevOps Engineer,KE,Mombasa,2026-08-07,,769000.0,880900.0,KES,jobboard_a
+100029,2026-09,42,Accountant,KE,Nairobi,2026-08-22,,1203000.0,1705700.0,KES,jobboard_b
+100030,2026-09,23,UX Designer,FR,Paris,2026-06-24,,28300.0,31600.0,EUR,jobboard_b
+100031,2026-09,41,HR Manager,KE,Kisumu,2026-06-21,,3323000.0,4319600.0,KES,jobboard_b
+100032,2026-09,3,Field Sales Rep,KE,Mombasa,2026-08-15,,3706000.0,5520000.0,KES,company_site
+100033,2026-09,11,Field Sales Rep,NG,Abuja,2026-06-22,,2029000.0,2616900.0,NGN,jobboard_b
+100034,2026-09,25,Customer Support Agent,FR,Paris,2026-08-21,,,,,jobboard_b
+100035,2026-09,16,UX Designer,GH,Accra,2026-07-23,2026-07-30,273000.0,347100.0,GHS,jobboard_b
+100036,2026-09,2,Customer Support Agent,RW,Kigali,2026-06-15,2026-07-22,3358000.0,3907300.0,RWF,jobboard_a
+100037,2026-09,23,Product Manager,FR,Lyon,2026-06-15,,,,,jobboard_a
+100038,2026-09,6,UX Designer,KE,Nairobi,2026-07-27,,2198000.0,3451100.0,KES,jobboard_b
+100039,2026-09,29,Finance Analyst,IN,Bengaluru,2026-08-18,2026-08-26,811000.0,1293100.0,INR,jobboard_a
+100040,2026-09,22,Sales Associate,TZ,Arusha,2026-08-19,,14166000.0,17957100.0,TZS,jobboard_b
+100041,2026-09,25,Sales Associate,FR,Paris,2026-07-18,2026-08-22,,,,jobboard_a
+100042,2026-09,20,Mobile Developer,UG,Kampala,2026-07-06,2026-08-13,60388000.0,84900600.0,UGX,jobboard_a
+100043,2026-09,25,Mobile Developer,NG,Lagos,2026-06-04,2026-07-15,18755000.0,29517600.0,NGN,jobboard_b
+100044,2026-09,40,Accountant,GH,Accra,2026-08-30,,137000.0,193400.0,GHS,jobboard_b
+100045,2026-09,2,HR Manager,KE,Nairobi,2026-08-18,,1229000.0,1731500.0,KES,jobboard_a
+100046,2026-09,9,Product Manager,NG,Lagos,2026-08-17,,4339000.0,6077800.0,NGN,jobboard_b
+100047,2026-09,20,Sales Associate,UG,Kampala,2026-08-23,,44109000.0,57647700.0,UGX,company_site
+100048,2026-09,35,Product Manager,NG,Lagos,2026-06-16,,3645000.0,4440900.0,NGN,company_site
+100049,2026-09,39,Field Sales Rep,NG,Lagos,2026-08-20,,,,,jobboard_a
+100050,2026-09,41,Mobile Developer,KE,Nairobi,2026-08-25,,2141000.0,2428600.0,KES,jobboard_a
+100051,2026-09,33,Accountant,KE,Nairobi,2026-08-13,,1529000.0,2294700.0,KES,jobboard_a
+100052,2026-09,26,Customer Support Agent,US,Austin,2026-06-19,2026-07-12,67400.0,103000.0,USD,jobboard_a
+100053,2026-09,38,DevOps Engineer,NG,Abuja,2026-07-30,,13582000.0,18521400.0,NGN,jobboard_a
+100054,2026-09,22,Accountant,TZ,Arusha,2026-08-11,,32826000.0,51744800.0,TZS,jobboard_a
+100055,2026-09,28,Finance Analyst,RW,Kigali,2026-06-11,,6037000.0,8593500.0,RWF,jobboard_b
+100056,2026-09,9,Backend Engineer,NG,Abuja,2026-06-18,,9171000.0,10154400.0,NGN,jobboard_b
+100057,2026-09,11,Data Engineer,NG,Abuja,2026-07-10,,13461000.0,20620100.0,NGN,jobboard_b
+100058,2026-09,25,Développeur logiciel,FR,Lyon,2026-07-29,,59800.0,94300.0,EUR,jobboard_a
+100059,2026-09,35,Data Analyst,NG,Lagos,2026-06-13,,3959000.0,5567400.0,NGN,jobboard_a
+100060,2026-09,36,Finance Analyst,NG,Lagos,2026-08-17,2026-08-28,,,,jobboard_a
+100061,2026-09,25,Développeur logiciel,FR,Paris,2026-07-26,,39100.0,56200.0,EUR,jobboard_a
+100062,2026-09,9,Field Sales Rep,NG,Abuja,2026-06-15,,2928000.0,3884600.0,NGN,jobboard_b
+100063,2026-09,27,Data Scientist,US,New York,2026-08-19,,56500.0,89400.0,USD,jobboard_a
+100064,2026-09,4,QA Engineer,KE,Nairobi,2026-08-18,,1990000.0,2546600.0,KES,jobboard_a
+100065,2026-09,20,Software Engineer,UG,Kampala,2026-07-19,,32469000.0,44843900.0,UGX,jobboard_b
+100066,2026-09,6,Field Sales Rep,KE,Mombasa,2026-08-10,,2588000.0,3730800.0,KES,jobboard_a
+100067,2026-09,23,Data Analyst,FR,Lyon,2026-08-23,,30100.0,48100.0,EUR,company_site
+100068,2026-09,20,Product Manager,UG,Kampala,2026-07-02,2026-07-11,77869000.0,91568000.0,UGX,jobboard_a
+100069,2026-09,35,Data Analyst,NG,Lagos,2026-07-01,,7674000.0,12168600.0,NGN,company_site
+100070,2026-09,30,Marketing Manager,IN,Pune,2026-08-06,,328000.0,522300.0,INR,jobboard_a
+100071,2026-09,33,Field Sales Rep,KE,Kisumu,2026-06-05,,3285000.0,3973000.0,KES,company_site
+100072,2026-09,21,Backend Engineer,TZ,Dar es Salaam,2026-07-19,2026-08-07,33998000.0,41715700.0,TZS,company_site
+100073,2026-09,9,Data Scientist,NG,Abuja,2026-07-07,,,,,company_site
+100074,2026-09,26,Sales Associate,US,New York,2026-08-16,,60900.0,73900.0,USD,jobboard_b
+100075,2026-09,5,Data Scientist,KE,Mombasa,2026-06-25,,1222000.0,1895400.0,KES,company_site
+100076,2026-09,39,Finance Analyst,US,Austin,2026-07-26,,,,,company_site
+100077,2026-09,18,Marketing Manager,NG,Lagos,2026-07-29,2026-08-20,15899000.0,23906600.0,NGN,jobboard_b
+100078,2026-09,13,Operations Lead,ZA,Cape Town,2026-08-21,,349000.0,518900.0,ZAR,jobboard_b
+100079,2026-09,22,Marketing Manager,TZ,Arusha,2026-06-04,,10221000.0,15503200.0,TZS,jobboard_b
+100080,2026-09,37,Data Analyst,KE,Mombasa,2026-07-22,,,,,jobboard_b
+100081,2026-09,20,HR Manager,UG,Kampala,2026-08-03,,59831000.0,66218700.0,UGX,jobboard_b
+100082,2026-09,19,Finance Analyst,UG,Kampala,2026-07-04,2026-07-15,66742000.0,77716300.0,UGX,jobboard_a
+100083,2026-09,13,QA Engineer,ZA,Johannesburg,2026-07-11,2026-07-18,,,,company_site
+100084,2026-09,36,UX Designer,NG,Lagos,2026-08-29,,2976000.0,3299900.0,NGN,jobboard_b
+100085,2026-09,31,Data Analyst,GH,Accra,2026-06-29,,,,,jobboard_a
+100086,2026-09,23,Développeur logiciel,FR,Lyon,2026-06-04,,54200.0,83900.0,EUR,company_site
+100087,2026-09,1,Data Analyst,KE,Nairobi,2026-08-21,,1269000.0,1551600.0,KES,jobboard_a
+100088,2026-09,20,Operations Lead,UG,Kampala,2026-07-23,,,,,jobboard_b
+100089,2026-09,15,UX Designer,GH,Accra,2026-06-17,,,,,jobboard_a
+100090,2026-09,12,HR Manager,ZA,Johannesburg,2026-07-02,,455000.0,614000.0,ZAR,jobboard_a
+100091,2026-09,40,Product Manager,GH,Accra,2026-08-06,,240000.0,382800.0,GHS,jobboard_b
+100092,2026-09,5,QA Engineer,KE,Kisumu,2026-08-14,,2757000.0,4294000.0,KES,jobboard_b
+100093,2026-09,40,Product Manager,GH,Accra,2026-07-22,,129000.0,204300.0,GHS,jobboard_a
+100094,2026-09,11,DevOps Engineer,UG,Kampala,2026-07-22,,,,,jobboard_a
+100095,2026-09,15,Data Scientist,GH,Accra,2026-07-29,,277000.0,442800.0,GHS,jobboard_b
+100096,2026-09,22,Customer Support Agent,TZ,Dar es Salaam,2026-08-30,,50872000.0,79800500.0,TZS,jobboard_a
+100097,2026-09,30,Backend Engineer,IN,Bengaluru,2026-07-11,,859000.0,1145500.0,INR,jobboard_a
+100098,2026-09,2,Marketing Manager,KE,Nairobi,2026-06-23,2026-08-06,3014000.0,3993100.0,KES,jobboard_a
+100099,2026-09,31,Operations Lead,KE,Nairobi,2026-08-02,2026-08-18,1835000.0,2181800.0,KES,jobboard_b
+100100,2026-09,6,Finance Analyst,KE,Mombasa,2026-07-03,,,,,jobboard_b
+100101,2026-09,13,Finance Analyst,ZA,Johannesburg,2026-08-24,,168000.0,195600.0,ZAR,jobboard_b
+100102,2026-09,24,Data Analyst,GH,Accra,2026-08-15,,224000.0,344000.0,GHS,jobboard_a
+100103,2026-09,31,Software Engineer,IN,Bengaluru,2026-08-25,,1390000.0,2139000.0,INR,jobboard_b
+100104,2026-09,11,Backend Engineer,NG,Lagos,2026-06-10,,16486000.0,25218500.0,NGN,jobboard_a
+100105,2026-09,12,DevOps Engineer,ZA,Johannesburg,2026-06-16,2026-07-19,,,,jobboard_a
+100106,2026-09,5,HR Manager,KE,Kisumu,2026-06-12,2026-06-28,,,,jobboard_a
+100107,2026-09,23,Développeur logiciel,FR,Lyon,2026-08-14,,56200.0,84500.0,EUR,company_site
+100108,2026-09,34,Data Scientist,IN,Pune,2026-06-11,,868000.0,1301800.0,INR,jobboard_a
+100109,2026-09,3,Finance Analyst,KE,Mombasa,2026-08-05,,3838000.0,5737500.0,KES,jobboard_a
+100110,2026-09,12,UX Designer,ZA,Johannesburg,2026-07-13,,443000.0,637800.0,ZAR,jobboard_a
+100111,2026-09,14,Finance Analyst,ZA,Cape Town,2026-06-14,2026-07-22,429000.0,628900.0,ZAR,jobboard_a
+100112,2026-09,8,Marketing Manager,KE,Nairobi,2026-08-20,,1419000.0,2074800.0,KES,jobboard_a
+100113,2026-09,39,Sales Associate,NG,Lagos,2026-06-19,,8418000.0,10375000.0,NGN,jobboard_b
+100114,2026-09,36,Finance Analyst,NG,Abuja,2026-07-13,,11199000.0,12930800.0,NGN,jobboard_a
+100115,2026-09,14,Data Scientist,ZA,Johannesburg,2026-08-26,,311000.0,390800.0,ZAR,company_site
+100116,2026-09,27,Operations Lead,US,New York,2026-07-01,,83300.0,130900.0,USD,jobboard_b
+100117,2026-09,11,Data Engineer,NG,Lagos,2026-08-26,,12880000.0,15268700.0,NGN,company_site
+100118,2026-09,28,Field Sales Rep,IN,Bengaluru,2026-06-14,,581000.0,646600.0,INR,jobboard_a
+100119,2026-09,36,Operations Lead,NG,Abuja,2026-08-10,,2321000.0,2654600.0,NGN,company_site
+100120,2026-09,8,Data Scientist,KE,Mombasa,2026-07-23,,2394000.0,2805100.0,KES,jobboard_a
+100121,2026-09,29,Sales Associate,IN,Pune,2026-07-28,,2309000.0,2853200.0,INR,jobboard_a
+100122,2026-09,11,Sales Associate,NG,Abuja,2026-06-16,,7444000.0,10789200.0,NGN,company_site
+100123,2026-09,36,Backend Engineer,NG,Lagos,2026-07-06,2026-08-20,,,,company_site
+100124,2026-09,11,Mobile Developer,KE,Mombasa,2026-08-05,,862000.0,1262500.0,KES,jobboard_a
+100125,2026-09,1,DevOps Engineer,KE,Kisumu,2026-08-20,,1279000.0,1899100.0,KES,jobboard_b
+100126,2026-09,32,HR Manager,NG,Lagos,2026-08-15,,4839000.0,5760900.0,NGN,jobboard_a
+100127,2026-09,42,Operations Lead,KE,Kisumu,2026-07-02,,3111000.0,3759900.0,KES,company_site
+100128,2026-09,18,Customer Support Agent,RW,Kigali,2026-07-29,,13964000.0,15854200.0,RWF,jobboard_a
+100129,2026-09,5,UX Designer,KE,Kisumu,2026-06-11,,,,,jobboard_b
+100130,2026-09,25,Développeur logiciel,FR,Paris,2026-08-17,2026-08-31,32900.0,40100.0,EUR,jobboard_a
+100131,2026-09,5,Operations Lead,IN,Bengaluru,2026-07-03,,2559000.0,3594200.0,INR,jobboard_a
+100132,2026-09,28,Customer Support Agent,IN,Pune,2026-08-17,,2698000.0,4089800.0,INR,company_site
+100133,2026-09,28,Data Scientist,IN,Pune,2026-08-18,,1171000.0,1679900.0,INR,company_site
+100134,2026-09,17,HR Manager,RW,Kigali,2026-07-25,,10951000.0,16720100.0,RWF,company_site
+100135,2026-09,25,Analyste de données,FR,Lyon,2026-06-18,2026-07-10,58500.0,87500.0,EUR,jobboard_a
+100136,2026-09,34,Customer Support Agent,KE,Kisumu,2026-06-20,,4180000.0,5470700.0,KES,jobboard_a
+100137,2026-09,13,Finance Analyst,ZA,Cape Town,2026-08-30,,,,,jobboard_a
+100138,2026-09,29,Software Engineer,IN,Bengaluru,2026-08-14,,1633000.0,2060100.0,INR,company_site
+100139,2026-09,13,Backend Engineer,ZA,Johannesburg,2026-07-29,,460000.0,524700.0,ZAR,jobboard_a
+100140,2026-09,18,Accountant,KE,Nairobi,2026-07-09,2026-08-19,2969000.0,4225700.0,KES,jobboard_a
+100141,2026-09,17,Data Engineer,RW,Kigali,2026-06-04,,5286000.0,7006900.0,RWF,jobboard_b
+100142,2026-09,38,Accountant,KE,Mombasa,2026-07-23,2026-08-16,,,,jobboard_b
+100143,2026-09,26,Backend Engineer,US,New York,2026-06-14,2026-07-18,121200.0,139700.0,USD,company_site
+100144,2026-09,23,Chef de produit,FR,Paris,2026-07-05,2026-08-03,39500.0,53900.0,EUR,jobboard_b
+100145,2026-09,36,Data Scientist,NG,Lagos,2026-08-13,2026-08-20,5524000.0,8384100.0,NGN,jobboard_b
+100146,2026-09,30,Software Engineer,IN,Pune,2026-08-11,,2208000.0,3316200.0,INR,company_site
+100147,2026-09,18,Product Manager,RW,Kigali,2026-06-27,,8899000.0,14069300.0,RWF,jobboard_b
+100148,2026-09,33,Customer Support Agent,KE,Kisumu,2026-06-30,,2144000.0,3160300.0,KES,jobboard_b
+100149,2026-09,28,Mobile Developer,IN,Pune,2026-06-06,2026-07-09,1521000.0,2084300.0,INR,jobboard_a
+100150,2026-09,26,Sales Associate,US,New York,2026-07-24,2026-08-29,45800.0,60700.0,USD,jobboard_a
+100151,2026-09,18,Data Analyst,RW,Kigali,2026-08-30,,,,,jobboard_a
+100152,2026-09,17,Marketing Manager,RW,Kigali,2026-07-22,,7703000.0,10366900.0,RWF,jobboard_b
+100153,2026-09,13,Sales Associate,RW,Kigali,2026-08-17,,8989000.0,12476600.0,RWF,jobboard_b
+100154,2026-09,11,Product Manager,NG,Lagos,2026-07-05,,11158000.0,17371500.0,NGN,company_site
+100155,2026-09,5,Finance Analyst,KE,Mombasa,2026-08-16,,1350000.0,1913500.0,KES,jobboard_a
+100156,2026-09,36,DevOps Engineer,TZ,Arusha,2026-08-22,,,,,jobboard_a
+100157,2026-09,20,QA Engineer,UG,Kampala,2026-07-01,,22847000.0,30245700.0,UGX,jobboard_a
+100158,2026-09,12,Product Manager,ZA,Cape Town,2026-08-09,,428000.0,670100.0,ZAR,company_site
+100159,2026-09,31,Customer Support Agent,FR,Lyon,2026-06-19,,55000.0,85300.0,EUR,jobboard_b
+100160,2026-09,10,HR Manager,NG,Abuja,2026-07-25,,16867000.0,26502700.0,NGN,company_site
+100161,2026-09,42,Finance Analyst,KE,Nairobi,2026-06-04,2026-06-12,3503000.0,5095900.0,KES,jobboard_a
+100162,2026-09,9,Data Analyst,NG,Abuja,2026-07-12,2026-08-09,12282000.0,15711900.0,NGN,jobboard_a
+100163,2026-09,39,Operations Lead,NG,Lagos,2026-08-13,,16725000.0,21357400.0,NGN,jobboard_a
+100164,2026-09,27,Finance Analyst,US,Austin,2026-08-25,,,,,jobboard_a
+100165,2026-09,17,Accountant,RW,Kigali,2026-08-09,2026-08-29,12170000.0,16560900.0,RWF,jobboard_a
+100166,2026-09,10,Accountant,NG,Lagos,2026-07-19,,17286000.0,23504100.0,NGN,jobboard_a
+100167,2026-09,38,Data Scientist,KE,Mombasa,2026-07-19,,3184000.0,3507100.0,KES,jobboard_a
+100168,2026-09,20,Customer Support Agent,UG,Kampala,2026-07-23,,27639000.0,34044100.0,UGX,jobboard_b
+100169,2026-09,26,Data Engineer,US,Austin,2026-06-13,2026-07-28,113500.0,158700.0,USD,jobboard_a
+100170,2026-09,33,Backend Engineer,US,New York,2026-08-20,,78100.0,86300.0,USD,jobboard_a
+100171,2026-09,36,Product Manager,NG,Lagos,2026-07-22,,16475000.0,18553700.0,NGN,company_site
+100172,2026-09,27,Data Engineer,US,Austin,2026-06-08,,49800.0,63300.0,USD,company_site
+100173,2026-09,35,Mobile Developer,NG,Lagos,2026-07-21,2026-08-26,2678000.0,3934300.0,NGN,jobboard_a
+100174,2026-09,31,HR Manager,KE,Nairobi,2026-07-05,,1074000.0,1328400.0,KES,jobboard_b
+100175,2026-09,26,HR Manager,US,New York,2026-07-28,,,,,jobboard_a
+100176,2026-09,29,Marketing Manager,IN,Bengaluru,2026-07-20,2026-08-02,,,,jobboard_b
+100177,2026-09,4,Mobile Developer,KE,Kisumu,2026-07-10,,,,,jobboard_b
+100178,2026-09,41,Field Sales Rep,KE,Mombasa,2026-08-03,,2746000.0,3060700.0,KES,jobboard_a
+100179,2026-09,25,Finance Analyst,UG,Kampala,2026-07-19,,,,,jobboard_b
+100180,2026-09,9,Mobile Developer,NG,Abuja,2026-07-28,,10608000.0,14380400.0,NGN,jobboard_b
+100181,2026-09,34,Finance Analyst,KE,Mombasa,2026-07-04,2026-07-14,,,,jobboard_a
+100182,2026-09,13,DevOps Engineer,ZA,Cape Town,2026-08-26,,755000.0,923900.0,ZAR,jobboard_b
+100183,2026-09,17,Accountant,RW,Kigali,2026-06-29,,4252000.0,6022600.0,RWF,jobboard_a
+100184,2026-09,28,Mobile Developer,IN,Pune,2026-07-23,,,,,company_site
+100185,2026-09,12,Customer Support Agent,ZA,Johannesburg,2026-06-24,,197000.0,247300.0,ZAR,jobboard_b
+100186,2026-09,26,DevOps Engineer,US,Austin,2026-07-09,2026-08-15,41800.0,56500.0,USD,jobboard_b
+100187,2026-09,34,Field Sales Rep,KE,Kisumu,2026-08-02,,2328000.0,2665300.0,KES,jobboard_b
+100188,2026-09,41,Operations Lead,KE,Nairobi,2026-07-08,,,,,company_site
+100189,2026-09,13,UX Designer,ZA,Cape Town,2026-08-24,,500000.0,787100.0,ZAR,jobboard_a
+100190,2026-09,23,Ingénieur QA,FR,Lyon,2026-07-08,2026-07-19,61000.0,85200.0,EUR,jobboard_a
+100191,2026-09,12,UX Designer,ZA,Johannesburg,2026-08-28,,340000.0,500700.0,ZAR,jobboard_a
+100192,2026-09,30,Product Manager,IN,Bengaluru,2026-07-24,,1904000.0,2104400.0,INR,company_site
+100193,2026-09,24,Développeur logiciel,FR,Lyon,2026-06-29,2026-07-16,40600.0,64500.0,EUR,jobboard_a
+100194,2026-09,35,Data Analyst,NG,Abuja,2026-07-24,,4830000.0,5716600.0,NGN,jobboard_b
+100195,2026-09,29,Field Sales Rep,IN,Pune,2026-07-22,,,,,jobboard_a
+100196,2026-09,18,Field Sales Rep,RW,Kigali,2026-08-20,,6045000.0,7413300.0,RWF,jobboard_b
+100197,2026-09,31,Product Manager,KE,Kisumu,2026-06-08,,2002000.0,2382700.0,KES,jobboard_b
+100198,2026-09,27,Data Engineer,US,Austin,2026-06-29,,103700.0,143800.0,USD,jobboard_b
+100199,2026-09,28,DevOps Engineer,IN,Pune,2026-08-15,,,,,company_site
+100200,2026-09,41,UX Designer,KE,Kisumu,2026-07-08,2026-08-01,,,,jobboard_a
+100201,2026-09,26,Operations Lead,US,Austin,2026-06-13,2026-07-14,84300.0,130200.0,USD,company_site
+100202,2026-09,15,Field Sales Rep,GH,Accra,2026-06-28,,89000.0,112400.0,GHS,jobboard_b
+100203,2026-09,11,UX Designer,NG,Abuja,2026-07-17,,18482000.0,25975500.0,NGN,company_site
+100204,2026-09,34,Data Scientist,KE,Nairobi,2026-06-23,,,,,company_site
+100205,2026-09,7,Field Sales Rep,KE,Nairobi,2026-08-24,,3452000.0,5494800.0,KES,jobboard_a
+100206,2026-09,31,Accountant,KE,Kisumu,2026-06-24,2026-07-12,731000.0,901800.0,KES,jobboard_a
+100207,2026-09,28,Finance Analyst,IN,Bengaluru,2026-08-19,,2208000.0,3391500.0,INR,company_site
+100208,2026-09,39,Operations Lead,NG,Abuja,2026-08-21,,13906000.0,20129700.0,NGN,jobboard_a
+100209,2026-09,12,QA Engineer,ZA,Johannesburg,2026-07-20,2026-08-10,785000.0,1078300.0,ZAR,jobboard_b
+100210,2026-09,25,Analyste de données,FR,Paris,2026-07-30,,41900.0,47400.0,EUR,jobboard_a
+100211,2026-09,27,HR Manager,US,New York,2026-08-16,,125200.0,161700.0,USD,jobboard_a
+100212,2026-09,27,Sales Associate,US,New York,2026-06-10,,48400.0,77100.0,USD,jobboard_a
+100213,2026-09,18,Customer Support Agent,TZ,Dar es Salaam,2026-08-27,,35312000.0,52031800.0,TZS,jobboard_a
+100214,2026-09,26,QA Engineer,US,Austin,2026-08-16,,120900.0,177100.0,USD,company_site
+100215,2026-09,1,Product Manager,KE,Kisumu,2026-07-05,2026-08-17,3325000.0,4641200.0,KES,company_site
+100216,2026-09,3,Software Engineer,KE,Kisumu,2026-07-19,,,,,company_site
+100217,2026-09,8,UX Designer,KE,Nairobi,2026-06-11,,726000.0,1054800.0,KES,jobboard_a
+100218,2026-09,39,Customer Support Agent,NG,Abuja,2026-08-08,2026-08-22,18933000.0,29129100.0,NGN,jobboard_b
+100219,2026-09,28,DevOps Engineer,IN,Pune,2026-06-11,,1126000.0,1268900.0,INR,company_site
+100220,2026-09,12,Product Manager,ZA,Cape Town,2026-08-03,,428000.0,604200.0,ZAR,jobboard_b
+100221,2026-09,34,Customer Support Agent,KE,Kisumu,2026-07-01,,,,,company_site
+100222,2026-09,40,Data Analyst,GH,Accra,2026-08-23,2026-08-31,116000.0,178700.0,GHS,jobboard_a
+100223,2026-09,20,DevOps Engineer,RW,Kigali,2026-07-22,,2503000.0,3557000.0,RWF,jobboard_a
+100224,2026-09,27,UX Designer,US,Austin,2026-07-04,,48500.0,56400.0,USD,jobboard_a
+100225,2026-09,21,Product Manager,UG,Kampala,2026-07-14,,,,,jobboard_a
+100226,2026-09,21,Product Manager,TZ,Dar es Salaam,2026-08-26,,,,,jobboard_a
+100227,2026-09,32,Data Scientist,KE,Mombasa,2026-08-19,,3834000.0,4454800.0,KES,jobboard_a
+100228,2026-09,14,Software Engineer,ZA,Johannesburg,2026-06-20,2026-06-30,400000.0,468300.0,ZAR,company_site
+100229,2026-09,4,Data Engineer,KE,Mombasa,2026-08-31,,,,,jobboard_a
+100230,2026-09,27,Ingénieur QA,FR,Lyon,2026-08-27,,54200.0,62800.0,EUR,jobboard_b
+100231,2026-09,17,Customer Support Agent,RW,Kigali,2026-06-19,,9508000.0,12641600.0,RWF,jobboard_a
+100232,2026-09,28,Backend Engineer,IN,Bengaluru,2026-07-03,2026-07-18,2056000.0,2590000.0,INR,company_site
+100233,2026-09,16,Accountant,GH,Accra,2026-06-22,,263000.0,327400.0,GHS,jobboard_a
+100234,2026-09,2,QA Engineer,KE,Mombasa,2026-08-26,,2203000.0,3467000.0,KES,jobboard_a
+100235,2026-09,16,DevOps Engineer,GH,Accra,2026-06-19,,,,,company_site
+100236,2026-09,30,Marketing Manager,IN,Bengaluru,2026-08-10,,2503000.0,3564200.0,INR,company_site
+100237,2026-09,27,Data Scientist,US,Austin,2026-08-01,2026-08-23,64700.0,83100.0,USD,jobboard_b
+100238,2026-09,29,Product Manager,IN,Bengaluru,2026-08-15,,431000.0,497000.0,INR,jobboard_a
+100239,2026-09,32,Accountant,KE,Kisumu,2026-07-19,2026-08-21,1788000.0,2046400.0,KES,jobboard_a
+100240,2026-09,30,Field Sales Rep,IN,Bengaluru,2026-07-12,,,,,company_site
+100241,2026-09,20,Sales Associate,UG,Kampala,2026-07-26,,34891000.0,52985100.0,UGX,company_site
+100242,2026-09,21,Finance Analyst,TZ,Arusha,2026-08-11,,50236000.0,73598800.0,TZS,company_site
+100243,2026-09,40,HR Manager,GH,Accra,2026-06-24,,151000.0,233900.0,GHS,jobboard_a
+100244,2026-09,6,Data Scientist,KE,Kisumu,2026-06-30,,1814000.0,2150400.0,KES,company_site
+100245,2026-09,19,Sales Associate,UG,Kampala,2026-06-27,2026-07-16,78353000.0,93242200.0,UGX,jobboard_a
+100246,2026-09,22,Backend Engineer,TZ,Dar es Salaam,2026-07-06,,55588000.0,81123600.0,TZS,company_site
+100247,2026-09,20,Sales Associate,UG,Kampala,2026-08-20,,29438000.0,38565300.0,UGX,jobboard_b
+100248,2026-09,36,DevOps Engineer,NG,Abuja,2026-07-19,2026-08-21,4885000.0,7738100.0,NGN,jobboard_b
+100249,2026-09,18,Operations Lead,RW,Kigali,2026-07-28,2026-08-12,4637000.0,6802700.0,RWF,jobboard_b
+100250,2026-09,22,Software Engineer,TZ,Dar es Salaam,2026-07-24,2026-08-20,44862000.0,70204800.0,TZS,jobboard_a
+100251,2026-09,20,Data Engineer,UG,Kampala,2026-07-13,2026-08-14,27314000.0,40211700.0,UGX,company_site
+100252,2026-09,19,Backend Engineer,UG,Kampala,2026-07-03,,79650000.0,110161400.0,UGX,jobboard_a
+100253,2026-09,41,Software Engineer,KE,Mombasa,2026-08-14,,2142000.0,2643200.0,KES,company_site
+100254,2026-09,10,Marketing Manager,NG,Lagos,2026-06-04,,,,,jobboard_b
+100255,2026-09,11,Customer Support Agent,NG,Abuja,2026-08-28,,18974000.0,21711300.0,NGN,jobboard_a
+100256,2026-09,36,Finance Analyst,NG,Lagos,2026-07-26,,9344000.0,12547500.0,NGN,jobboard_a
+100257,2026-09,10,DevOps Engineer,FR,Lyon,2026-08-18,,35500.0,43400.0,EUR,jobboard_a
+100258,2026-09,32,Customer Support Agent,KE,Nairobi,2026-07-24,,,,,jobboard_a
+100259,2026-09,33,QA Engineer,KE,Mombasa,2026-08-30,,3057000.0,3776400.0,KES,jobboard_a
+100260,2026-09,15,DevOps Engineer,GH,Accra,2026-07-01,2026-08-11,185000.0,262700.0,GHS,jobboard_b
+100261,2026-09,35,Data Engineer,NG,Abuja,2026-07-11,,12572000.0,18325100.0,NGN,jobboard_a
+100262,2026-09,23,Développeur logiciel,FR,Paris,2026-06-15,,,,,jobboard_b
+100263,2026-09,20,Finance Analyst,US,Austin,2026-08-29,,75400.0,105600.0,USD,company_site
+100264,2026-09,13,Sales Associate,ZA,Johannesburg,2026-08-21,,600000.0,899200.0,ZAR,jobboard_a
+100265,2026-09,35,UX Designer,NG,Lagos,2026-06-22,,5166000.0,6730600.0,NGN,jobboard_b
+100266,2026-09,27,DevOps Engineer,NG,Lagos,2026-07-28,,14445000.0,21810100.0,NGN,company_site
+100267,2026-09,14,UX Designer,ZA,Johannesburg,2026-06-05,,836000.0,1235200.0,ZAR,jobboard_a
+100268,2026-09,12,Accountant,ZA,Johannesburg,2026-08-04,,940000.0,1059800.0,ZAR,jobboard_a
+100269,2026-09,28,DevOps Engineer,IN,Pune,2026-08-09,,508000.0,596000.0,INR,company_site
+100270,2026-09,38,DevOps Engineer,KE,Mombasa,2026-06-11,2026-07-14,2288000.0,2786000.0,KES,jobboard_a
+100271,2026-09,26,Marketing Manager,US,New York,2026-07-21,,85900.0,136400.0,USD,company_site
+100272,2026-09,22,Data Analyst,TZ,Arusha,2026-08-02,,13560000.0,21008900.0,TZS,company_site
+100273,2026-09,40,Data Engineer,GH,Accra,2026-07-29,,245000.0,340000.0,GHS,jobboard_a
+100274,2026-09,17,Customer Support Agent,RW,Kigali,2026-08-31,,5054000.0,6001500.0,RWF,jobboard_a
+100275,2026-09,28,Operations Lead,IN,Pune,2026-06-06,2026-07-05,1860000.0,2546900.0,INR,jobboard_a
+100276,2026-09,11,Software Engineer,NG,Abuja,2026-06-06,2026-07-20,,,,jobboard_b
+100277,2026-09,29,Field Sales Rep,IN,Bengaluru,2026-07-08,2026-07-21,723000.0,861800.0,INR,jobboard_b
+100278,2026-09,34,Marketing Manager,KE,Mombasa,2026-07-13,,2402000.0,3650500.0,KES,company_site
+100279,2026-09,19,Data Scientist,UG,Kampala,2026-08-28,,57989000.0,90888500.0,UGX,jobboard_b
+100280,2026-09,6,Marketing Manager,KE,Nairobi,2026-08-08,,1731000.0,2267700.0,KES,jobboard_a
+100281,2026-09,23,Product Manager,FR,Paris,2026-08-19,,25300.0,40100.0,EUR,jobboard_a
+100282,2026-09,33,Sales Associate,KE,Kisumu,2026-07-25,,3421000.0,4347000.0,KES,company_site
+100283,2026-09,26,Mobile Developer,US,New York,2026-08-11,,117600.0,142300.0,USD,jobboard_a
+100284,2026-09,12,Data Analyst,ZA,Cape Town,2026-06-28,,301000.0,407200.0,ZAR,jobboard_b
+100285,2026-09,29,Marketing Manager,IN,Pune,2026-07-07,2026-08-03,702000.0,976100.0,INR,jobboard_b
+100286,2026-09,15,DevOps Engineer,GH,Accra,2026-06-05,,177000.0,263700.0,GHS,jobboard_a
+100287,2026-09,19,Customer Support Agent,UG,Kampala,2026-06-27,2026-07-10,79376000.0,99715800.0,UGX,jobboard_a
+100288,2026-09,16,Customer Support Agent,GH,Accra,2026-07-06,,190000.0,245900.0,GHS,jobboard_b
+100289,2026-09,3,Customer Support Agent,KE,Mombasa,2026-07-01,2026-07-24,737000.0,1178800.0,KES,jobboard_a
+100290,2026-09,11,Finance Analyst,NG,Lagos,2026-06-28,,,,,jobboard_b
+100291,2026-09,5,Software Engineer,KE,Mombasa,2026-08-16,,,,,company_site
+100292,2026-09,11,Field Sales Rep,NG,Abuja,2026-07-29,2026-08-24,16320000.0,23877900.0,NGN,jobboard_a
+100293,2026-09,22,Sales Associate,TZ,Arusha,2026-08-05,,46573000.0,60473400.0,TZS,jobboard_a
+100294,2026-09,10,QA Engineer,GH,Accra,2026-07-30,,,,,jobboard_a
+100295,2026-09,26,Accountant,US,New York,2026-08-19,,,,,jobboard_a
+100296,2026-09,26,Accountant,RW,Kigali,2026-07-02,2026-07-24,9870000.0,15350400.0,RWF,company_site
+100297,2026-09,21,Data Analyst,TZ,Dar es Salaam,2026-06-11,,22924000.0,31418000.0,TZS,jobboard_b
+100298,2026-09,29,DevOps Engineer,IN,Pune,2026-07-23,,1546000.0,2039000.0,INR,jobboard_a
+100299,2026-09,5,Operations Lead,KE,Mombasa,2026-08-15,,4144000.0,5548700.0,KES,jobboard_b
+100300,2026-09,9,Accountant,NG,Abuja,2026-06-28,,2515000.0,3704700.0,NGN,jobboard_a
+100301,2026-09,13,Sales Associate,ZA,Johannesburg,2026-08-02,2026-08-28,407000.0,499500.0,ZAR,jobboard_a
+100302,2026-09,23,Product Manager,KE,Mombasa,2026-08-28,,1542000.0,2399400.0,KES,company_site
+100303,2026-09,32,Sales Associate,TZ,Dar es Salaam,2026-06-09,2026-06-16,,,,jobboard_a
+100304,2026-09,6,Mobile Developer,KE,Nairobi,2026-08-06,,,,,jobboard_a
+100305,2026-09,11,Data Analyst,IN,Bengaluru,2026-06-10,2026-06-29,1141000.0,1591400.0,INR,jobboard_b
+100306,2026-09,37,Data Scientist,KE,Nairobi,2026-06-08,2026-07-04,,,,jobboard_b
+100307,2026-09,31,Mobile Developer,KE,Kisumu,2026-08-13,2026-08-22,1173000.0,1365400.0,KES,company_site
+100308,2026-09,35,Data Scientist,KE,Kisumu,2026-06-19,2026-07-01,686000.0,938600.0,KES,company_site
+100309,2026-09,13,Backend Engineer,TZ,Dar es Salaam,2026-08-01,2026-08-28,22103000.0,25581800.0,TZS,jobboard_a
+100310,2026-09,5,Field Sales Rep,KE,Nairobi,2026-07-30,,1401000.0,1930900.0,KES,company_site
+100311,2026-09,36,Software Engineer,NG,Lagos,2026-07-27,,8317000.0,11305900.0,NGN,jobboard_b
+100312,2026-09,14,Software Engineer,ZA,Cape Town,2026-06-03,,762000.0,1206500.0,ZAR,jobboard_b
+100313,2026-09,27,Backend Engineer,US,New York,2026-08-13,,110100.0,171400.0,USD,company_site
+100314,2026-09,12,UX Designer,ZA,Cape Town,2026-08-31,,994000.0,1514100.0,ZAR,jobboard_a
+100315,2026-09,26,Data Engineer,US,Austin,2026-08-24,,115300.0,174600.0,USD,jobboard_a
+100316,2026-09,36,Finance Analyst,NG,Abuja,2026-08-04,,12147000.0,14181600.0,NGN,jobboard_a
+100317,2026-09,26,Field Sales Rep,US,Austin,2026-08-08,,120500.0,187100.0,USD,jobboard_a
+100318,2026-09,3,Data Scientist,GH,Accra,2026-07-08,,193000.0,296700.0,GHS,jobboard_b
+100319,2026-09,3,Customer Support Agent,KE,Nairobi,2026-06-05,,,,,jobboard_b
+100320,2026-09,20,Field Sales Rep,UG,Kampala,2026-08-30,,44632000.0,60260600.0,UGX,jobboard_a
+100321,2026-09,27,Marketing Manager,KE,Kisumu,2026-08-28,,,,,company_site
+100322,2026-09,7,Mobile Developer,KE,Kisumu,2026-08-07,2026-08-16,,,,jobboard_b
+100323,2026-09,17,Data Engineer,RW,Kigali,2026-06-23,,10631000.0,12923900.0,RWF,jobboard_a
+100324,2026-09,16,Data Analyst,GH,Accra,2026-07-16,,,,,jobboard_a
+100325,2026-09,18,Sales Associate,RW,Kigali,2026-07-25,2026-08-15,3664000.0,5173900.0,RWF,jobboard_a
+100326,2026-09,26,Field Sales Rep,US,New York,2026-07-12,2026-08-02,56700.0,75700.0,USD,jobboard_b
+100327,2026-09,21,Data Scientist,TZ,Arusha,2026-06-23,,,,,company_site
+100328,2026-09,3,Customer Support Agent,KE,Mombasa,2026-08-25,,3849000.0,4803000.0,KES,jobboard_a
+100329,2026-09,17,Sales Associate,ZA,Johannesburg,2026-06-28,2026-07-28,473000.0,529400.0,ZAR,jobboard_b
+100330,2026-09,32,Customer Support Agent,NG,Abuja,2026-06-07,,7744000.0,11793000.0,NGN,jobboard_b
+100331,2026-09,25,Marketing Manager,FR,Paris,2026-08-19,,,,,company_site
+100332,2026-09,36,Data Analyst,NG,Abuja,2026-07-23,,10643000.0,13486500.0,NGN,company_site
+100333,2026-09,10,DevOps Engineer,NG,Abuja,2026-08-10,,4761000.0,7358500.0,NGN,jobboard_a
+100334,2026-09,14,Customer Support Agent,ZA,Johannesburg,2026-08-24,,369000.0,545400.0,ZAR,jobboard_b
+100335,2026-09,24,Chef de produit,FR,Paris,2026-06-23,,51700.0,73200.0,EUR,company_site
+100336,2026-09,13,Marketing Manager,ZA,Cape Town,2026-08-11,,,,,jobboard_b
+100337,2026-09,29,HR Manager,GH,Accra,2026-08-24,,213000.0,274700.0,GHS,company_site
+100338,2026-09,36,Field Sales Rep,NG,Abuja,2026-08-16,,12857000.0,18533300.0,NGN,company_site
+100339,2026-09,31,Operations Lead,KE,Nairobi,2026-06-05,2026-07-18,3969000.0,4810300.0,KES,jobboard_b
+100340,2026-09,40,Accountant,GH,Accra,2026-07-18,,106000.0,158200.0,GHS,jobboard_b
+100341,2026-09,23,Marketing Manager,FR,Paris,2026-07-15,,,,,jobboard_b
+100342,2026-09,27,UX Designer,US,Austin,2026-08-15,,124900.0,168500.0,USD,jobboard_a
+100343,2026-09,25,Data Scientist,FR,Lyon,2026-07-25,,31500.0,45400.0,EUR,jobboard_a
+100344,2026-09,39,Data Scientist,NG,Lagos,2026-08-29,,,,,company_site
+100345,2026-09,26,Finance Analyst,US,New York,2026-07-22,,81400.0,111400.0,USD,jobboard_a
+100346,2026-09,36,Data Engineer,NG,Lagos,2026-08-21,,5692000.0,7626500.0,NGN,jobboard_a
+100347,2026-09,12,Marketing Manager,ZA,Johannesburg,2026-06-12,2026-06-30,,,,jobboard_a
+100348,2026-09,20,Finance Analyst,UG,Kampala,2026-07-15,2026-07-28,44915000.0,58706600.0,UGX,jobboard_a
+100349,2026-09,19,HR Manager,UG,Kampala,2026-08-08,2026-08-27,28364000.0,35210500.0,UGX,jobboard_b
+100350,2026-09,42,UX Designer,KE,Nairobi,2026-08-28,,,,,company_site
+100351,2026-09,26,Data Engineer,US,New York,2026-07-06,,,,,company_site
+100352,2026-09,6,QA Engineer,KE,Mombasa,2026-06-17,,1448000.0,1700900.0,KES,jobboard_a
+100353,2026-09,1,Field Sales Rep,KE,Mombasa,2026-07-11,,2460000.0,3808100.0,KES,jobboard_a
+100354,2026-09,18,Data Analyst,RW,Kigali,2026-07-04,,,,,jobboard_a
+100355,2026-09,8,Backend Engineer,KE,Mombasa,2026-06-06,,1901000.0,2702100.0,KES,jobboard_a
+100356,2026-09,18,Operations Lead,RW,Kigali,2026-07-06,,6667000.0,7833400.0,RWF,company_site
+100357,2026-09,21,Data Scientist,TZ,Arusha,2026-08-05,,39963000.0,52537000.0,TZS,jobboard_a
+100358,2026-09,27,Field Sales Rep,US,New York,2026-06-29,,41100.0,57100.0,USD,jobboard_a
+100359,2026-09,10,Marketing Manager,NG,Abuja,2026-07-04,2026-08-10,6505000.0,9450700.0,NGN,jobboard_a
+100360,2026-09,41,Operations Lead,KE,Nairobi,2026-07-02,,2700000.0,4318400.0,KES,jobboard_b
+100361,2026-09,28,Backend Engineer,IN,Bengaluru,2026-06-06,,1539000.0,1732800.0,INR,jobboard_a
+100362,2026-09,28,Data Scientist,KE,Kisumu,2026-06-23,,2872000.0,3275300.0,KES,jobboard_a
+100363,2026-09,6,Mobile Developer,KE,Nairobi,2026-07-17,,698000.0,963500.0,KES,jobboard_b
+100364,2026-09,30,Data Engineer,IN,Pune,2026-07-11,2026-08-07,2366000.0,3474600.0,INR,jobboard_a
+100365,2026-09,11,UX Designer,NG,Lagos,2026-08-24,,11446000.0,13383300.0,NGN,jobboard_b
+100366,2026-09,27,DevOps Engineer,US,Austin,2026-06-04,,43100.0,49500.0,USD,jobboard_b
+100367,2026-09,42,Backend Engineer,KE,Nairobi,2026-06-30,2026-07-21,,,,jobboard_a
+100368,2026-09,23,Field Sales Rep,IN,Bengaluru,2026-06-15,,1121000.0,1364100.0,INR,company_site
+100369,2026-09,1,Field Sales Rep,KE,Mombasa,2026-08-15,,643000.0,1010800.0,KES,company_site
+100370,2026-09,9,Product Manager,NG,Lagos,2026-08-10,,6694000.0,8493300.0,NGN,jobboard_b
+100371,2026-09,12,Backend Engineer,ZA,Johannesburg,2026-07-17,2026-08-08,894000.0,986700.0,ZAR,company_site
+100372,2026-09,27,Accountant,US,Austin,2026-08-30,,100700.0,138500.0,USD,company_site
+100373,2026-09,16,Product Manager,GH,Accra,2026-08-27,,99000.0,151300.0,GHS,jobboard_b
+100374,2026-09,19,Customer Support Agent,UG,Kampala,2026-08-29,,,,,company_site
+100375,2026-09,27,UX Designer,US,New York,2026-06-22,2026-08-06,83800.0,111700.0,USD,jobboard_a
+100376,2026-09,17,Data Scientist,RW,Kigali,2026-08-23,,8564000.0,11407600.0,RWF,jobboard_b
+100377,2026-09,11,Data Scientist,NG,Lagos,2026-07-17,2026-08-13,10208000.0,13528300.0,NGN,jobboard_b
+100378,2026-09,12,Accountant,KE,Nairobi,2026-07-20,,2930000.0,3606900.0,KES,jobboard_b
+100379,2026-09,16,Operations Lead,GH,Accra,2026-06-14,,36000.0,48600.0,GHS,jobboard_a
+100380,2026-09,33,Finance Analyst,KE,Nairobi,2026-07-08,,3988000.0,5583900.0,KES,jobboard_a
+100381,2026-09,24,Chef de produit,FR,Lyon,2026-06-12,,33700.0,42400.0,EUR,company_site
+100382,2026-09,35,Backend Engineer,NG,Abuja,2026-06-26,,19166000.0,29245800.0,NGN,company_site
+100383,2026-09,38,Data Analyst,KE,Mombasa,2026-06-19,,1366000.0,2043900.0,KES,jobboard_b
+100384,2026-09,8,Mobile Developer,KE,Kisumu,2026-06-07,2026-06-20,3232000.0,4725200.0,KES,company_site
+100385,2026-09,1,HR Manager,KE,Mombasa,2026-08-17,,,,,company_site
+100386,2026-09,37,DevOps Engineer,KE,Nairobi,2026-08-27,,3053000.0,4799300.0,KES,jobboard_a
+100387,2026-09,19,Sales Associate,UG,Kampala,2026-07-24,2026-08-22,10410000.0,13202100.0,UGX,jobboard_a
+100388,2026-09,29,UX Designer,IN,Bengaluru,2026-06-27,2026-07-15,1391000.0,1999200.0,INR,company_site
+100389,2026-09,28,Product Manager,KE,Mombasa,2026-07-04,2026-07-18,1021000.0,1232000.0,KES,jobboard_b
+100390,2026-09,26,Marketing Manager,ZA,Johannesburg,2026-07-13,2026-08-08,,,,jobboard_b
+100391,2026-09,8,HR Manager,KE,Mombasa,2026-07-22,2026-08-11,2349000.0,2981100.0,KES,jobboard_b
+100392,2026-09,12,Data Analyst,ZA,Johannesburg,2026-08-28,,,,,jobboard_b
+100393,2026-09,26,Operations Lead,IN,Pune,2026-07-26,2026-08-04,1066000.0,1602900.0,INR,jobboard_a
+100394,2026-09,18,Accountant,RW,Kigali,2026-07-24,2026-08-29,10205000.0,11642200.0,RWF,jobboard_b
+100395,2026-09,14,DevOps Engineer,ZA,Cape Town,2026-07-28,,590000.0,912100.0,ZAR,jobboard_a
+100396,2026-09,17,Mobile Developer,RW,Kigali,2026-08-11,,12539000.0,15642300.0,RWF,company_site
+100397,2026-09,13,Backend Engineer,ZA,Johannesburg,2026-08-18,,257000.0,366200.0,ZAR,jobboard_a
+100398,2026-09,3,Accountant,KE,Nairobi,2026-08-19,,3530000.0,5198600.0,KES,company_site
+100399,2026-09,18,Marketing Manager,RW,Kigali,2026-08-11,,12447000.0,15219800.0,RWF,jobboard_a
+100400,2026-09,15,QA Engineer,GH,Accra,2026-08-11,,195000.0,291100.0,GHS,company_site
+100401,2026-09,6,Accountant,KE,Kisumu,2026-06-19,,2926000.0,3617100.0,KES,jobboard_b
+100402,2026-09,32,Marketing Manager,KE,Nairobi,2026-07-26,2026-08-21,2955000.0,4710600.0,KES,jobboard_a
+100403,2026-09,23,DevOps Engineer,IN,Bengaluru,2026-06-03,,1035000.0,1393500.0,INR,company_site
+100404,2026-09,12,Mobile Developer,ZA,Johannesburg,2026-08-19,,630000.0,878000.0,ZAR,jobboard_a
+100405,2026-09,40,Mobile Developer,GH,Accra,2026-06-12,2026-07-16,60000.0,82900.0,GHS,company_site
+100406,2026-09,12,Sales Associate,ZA,Cape Town,2026-08-06,,665000.0,1052100.0,ZAR,company_site
+100407,2026-09,30,Operations Lead,IN,Bengaluru,2026-06-11,2026-06-18,1215000.0,1388000.0,INR,jobboard_b
+100408,2026-09,37,Marketing Manager,KE,Kisumu,2026-07-20,,,,,jobboard_b
+100409,2026-09,10,Operations Lead,NG,Abuja,2026-07-22,,2784000.0,3510800.0,NGN,jobboard_b
+100410,2026-09,42,Product Manager,KE,Mombasa,2026-07-17,,3751000.0,5422800.0,KES,jobboard_b
+100411,2026-09,41,Backend Engineer,KE,Mombasa,2026-07-02,,3444000.0,4175700.0,KES,jobboard_a
+100412,2026-09,14,Product Manager,GH,Accra,2026-06-05,,179000.0,228400.0,GHS,jobboard_b
+100413,2026-09,3,Field Sales Rep,UG,Kampala,2026-06-25,,62870000.0,89764800.0,UGX,company_site
+100414,2026-09,12,Backend Engineer,ZA,Cape Town,2026-08-02,2026-08-11,,,,jobboard_a
+100415,2026-09,11,Product Manager,NG,Lagos,2026-08-14,,3134000.0,3907200.0,NGN,company_site
+100416,2026-09,36,DevOps Engineer,NG,Lagos,2026-06-11,,15781000.0,19520100.0,NGN,jobboard_a
+100417,2026-09,21,Data Engineer,TZ,Dar es Salaam,2026-07-27,,,,,jobboard_b
+100418,2026-09,38,UX Designer,NG,Lagos,2026-08-15,,3999000.0,4921400.0,NGN,jobboard_b
+100419,2026-09,31,QA Engineer,KE,Kisumu,2026-07-17,,1980000.0,3084400.0,KES,jobboard_a
+100420,2026-09,4,Software Engineer,KE,Nairobi,2026-08-18,2026-08-27,,,,company_site
+100421,2026-09,6,DevOps Engineer,KE,Mombasa,2026-06-13,,1230000.0,1478300.0,KES,company_site
+100422,2026-09,34,Product Manager,KE,Nairobi,2026-08-28,,1045000.0,1187700.0,KES,company_site
+100423,2026-09,2,Marketing Manager,KE,Kisumu,2026-07-25,,3516000.0,4647200.0,KES,jobboard_a
+100424,2026-09,21,Backend Engineer,TZ,Dar es Salaam,2026-08-20,,,,,jobboard_a
+100425,2026-09,32,Customer Support Agent,KE,Kisumu,2026-06-05,2026-06-25,3890000.0,4973400.0,KES,company_site
+100426,2026-09,28,QA Engineer,IN,Pune,2026-08-16,,1015000.0,1599000.0,INR,jobboard_b
+100427,2026-09,12,Product Manager,ZA,Cape Town,2026-08-11,,1015000.0,1124300.0,ZAR,jobboard_a
+100428,2026-09,29,Mobile Developer,IN,Bengaluru,2026-06-21,,1200000.0,1672600.0,INR,company_site
+100429,2026-09,16,Data Engineer,ZA,Cape Town,2026-07-28,,245000.0,360200.0,ZAR,company_site
+100430,2026-09,34,Finance Analyst,KE,Mombasa,2026-08-09,,3365000.0,4005100.0,KES,company_site
+100431,2026-09,36,Backend Engineer,NG,Lagos,2026-08-25,,16768000.0,18990200.0,NGN,jobboard_b
+100432,2026-09,23,Data Analyst,NG,Abuja,2026-06-03,,,,,company_site
+100433,2026-09,27,Sales Associate,US,New York,2026-06-17,,45300.0,70100.0,USD,jobboard_a
+100434,2026-09,35,HR Manager,NG,Lagos,2026-08-08,,6507000.0,8713400.0,NGN,company_site
+100435,2026-09,26,Accountant,KE,Nairobi,2026-06-29,,3394000.0,3817900.0,KES,company_site
+100436,2026-09,9,Finance Analyst,NG,Lagos,2026-07-28,2026-08-14,7530000.0,8673600.0,NGN,jobboard_b
+100437,2026-09,3,Data Scientist,KE,Nairobi,2026-08-18,,3433000.0,5008700.0,KES,jobboard_a
+100438,2026-09,3,Product Manager,TZ,Arusha,2026-08-16,,31933000.0,50221900.0,TZS,jobboard_b
+100439,2026-09,20,Software Engineer,UG,Kampala,2026-07-28,2026-08-20,,,,jobboard_a
+100440,2026-09,19,Data Analyst,US,New York,2026-08-11,,,,,jobboard_a
+100441,2026-09,29,Software Engineer,US,Austin,2026-07-28,,,,,jobboard_a
+100442,2026-09,35,HR Manager,NG,Lagos,2026-06-18,,14545000.0,21137900.0,NGN,jobboard_b
+100443,2026-09,26,Sales Associate,US,New York,2026-06-29,2026-07-14,110500.0,125100.0,USD,company_site
+100444,2026-09,38,QA Engineer,KE,Nairobi,2026-08-20,,,,,jobboard_b
+100445,2026-09,24,Accountant,NG,Abuja,2026-08-20,,15057000.0,21752300.0,NGN,jobboard_b
+100446,2026-09,22,Field Sales Rep,TZ,Arusha,2026-07-04,,39912000.0,54982800.0,TZS,jobboard_b
+100447,2026-09,7,Finance Analyst,KE,Nairobi,2026-06-07,,,,,jobboard_a
+100448,2026-09,37,Software Engineer,NG,Abuja,2026-06-26,2026-07-23,7911000.0,9463600.0,NGN,company_site
+100449,2026-09,6,Mobile Developer,KE,Nairobi,2026-06-21,,1215000.0,1711800.0,KES,company_site
+100450,2026-09,28,Accountant,IN,Bengaluru,2026-06-23,2026-07-25,348000.0,425500.0,INR,company_site
+100451,2026-09,10,UX Designer,NG,Abuja,2026-07-20,,18222000.0,24577800.0,NGN,jobboard_a
+100452,2026-09,26,DevOps Engineer,US,New York,2026-06-18,2026-07-27,95800.0,141900.0,USD,company_site
+100453,2026-09,9,Data Analyst,NG,Lagos,2026-06-12,2026-07-02,10975000.0,12423600.0,NGN,company_site
+100454,2026-09,1,Backend Engineer,KE,Mombasa,2026-08-13,,1835000.0,2308600.0,KES,jobboard_b
+100455,2026-09,29,Field Sales Rep,IN,Bengaluru,2026-07-11,,,,,jobboard_b
+100456,2026-09,3,UX Designer,KE,Nairobi,2026-08-16,,4082000.0,5315000.0,KES,jobboard_a
+100457,2026-09,28,Marketing Manager,IN,Bengaluru,2026-06-26,2026-07-18,1605000.0,1866300.0,INR,company_site
+100458,2026-09,15,Data Engineer,GH,Accra,2026-07-08,2026-07-16,,,,company_site
+100459,2026-09,2,Data Engineer,KE,Mombasa,2026-07-28,,3807000.0,4272200.0,KES,jobboard_a
+100460,2026-09,37,Sales Associate,KE,Nairobi,2026-07-08,,3070000.0,4716100.0,KES,jobboard_a
+100461,2026-09,22,DevOps Engineer,TZ,Arusha,2026-08-15,,27781000.0,34026700.0,TZS,jobboard_b
+100462,2026-09,29,Field Sales Rep,IN,Pune,2026-07-25,2026-08-03,2622000.0,3924700.0,INR,jobboard_b
+100463,2026-09,22,Software Engineer,TZ,Arusha,2026-07-31,,,,,jobboard_a
+100464,2026-09,20,HR Manager,UG,Kampala,2026-07-12,,,,,jobboard_a
+100465,2026-09,1,Product Manager,KE,Kisumu,2026-08-02,,1628000.0,2571900.0,KES,jobboard_a
+100466,2026-09,12,HR Manager,ZA,Cape Town,2026-06-12,2026-06-23,,,,jobboard_b
+100467,2026-09,16,Sales Associate,GH,Accra,2026-07-01,2026-08-14,178000.0,232200.0,GHS,jobboard_a
+100468,2026-09,22,Sales Associate,KE,Mombasa,2026-08-02,,2203000.0,2740300.0,KES,jobboard_b
+100469,2026-09,37,Backend Engineer,KE,Nairobi,2026-07-10,2026-07-30,2256000.0,3537200.0,KES,jobboard_a
+100470,2026-09,22,Data Engineer,TZ,Arusha,2026-07-01,,41726000.0,59600200.0,TZS,company_site
+100471,2026-09,30,Finance Analyst,IN,Bengaluru,2026-07-09,,2256000.0,3429400.0,INR,company_site
+100472,2026-09,17,Product Manager,RW,Kigali,2026-07-01,,8432000.0,10499000.0,RWF,company_site
+100473,2026-09,39,Data Analyst,NG,Abuja,2026-06-07,,14593000.0,19610000.0,NGN,company_site
+100474,2026-09,42,Backend Engineer,KE,Kisumu,2026-06-04,2026-06-21,3341000.0,4419000.0,KES,company_site
+100475,2026-09,40,Operations Lead,GH,Accra,2026-06-11,,119000.0,153200.0,GHS,company_site
+100476,2026-09,17,Marketing Manager,RW,Kigali,2026-08-06,,3740000.0,4753600.0,RWF,jobboard_a
+100477,2026-09,27,QA Engineer,US,Austin,2026-08-12,,123300.0,194900.0,USD,jobboard_a
+100478,2026-09,39,Customer Support Agent,NG,Abuja,2026-07-15,,5416000.0,8299900.0,NGN,jobboard_b
+100479,2026-09,13,Data Scientist,KE,Mombasa,2026-08-14,,1312000.0,2038700.0,KES,jobboard_b
+100480,2026-09,20,Finance Analyst,UG,Kampala,2026-07-05,,75422000.0,87463100.0,UGX,jobboard_a
+100481,2026-09,24,Ingénieur QA,FR,Paris,2026-08-02,2026-08-09,31200.0,34300.0,EUR,company_site
+100482,2026-09,14,UX Designer,ZA,Cape Town,2026-08-19,,488000.0,656800.0,ZAR,company_site
+100483,2026-09,25,Product Manager,FR,Paris,2026-08-30,,60000.0,87700.0,EUR,jobboard_a
+100484,2026-09,9,Field Sales Rep,KE,Kisumu,2026-07-13,2026-08-23,2810000.0,4012400.0,KES,jobboard_a
+100485,2026-09,8,Data Analyst,KE,Nairobi,2026-08-02,,3697000.0,5433400.0,KES,jobboard_a
+100486,2026-09,22,Data Scientist,TZ,Arusha,2026-06-11,2026-07-02,13394000.0,17729000.0,TZS,jobboard_a
+100487,2026-09,40,Software Engineer,GH,Accra,2026-07-20,,103000.0,122200.0,GHS,company_site
+100488,2026-09,27,Backend Engineer,US,New York,2026-07-28,,53400.0,68200.0,USD,jobboard_a
+100489,2026-09,6,Data Analyst,KE,Nairobi,2026-07-05,,3132000.0,4484900.0,KES,jobboard_a
+100490,2026-09,30,Sales Associate,IN,Pune,2026-06-21,2026-07-15,1997000.0,2614800.0,INR,company_site
+100491,2026-09,14,Product Manager,ZA,Cape Town,2026-08-10,,177000.0,215200.0,ZAR,company_site
+100492,2026-09,1,Accountant,KE,Kisumu,2026-06-03,,3179000.0,4793400.0,KES,jobboard_b
+100493,2026-09,18,Product Manager,RW,Kigali,2026-07-09,2026-08-23,3466000.0,5118500.0,RWF,jobboard_a
+100494,2026-09,24,Backend Engineer,GH,Accra,2026-07-13,2026-07-28,172000.0,269300.0,GHS,jobboard_b
+100495,2026-09,5,Software Engineer,IN,Bengaluru,2026-07-29,,2086000.0,2524800.0,INR,company_site
+100496,2026-09,14,Customer Support Agent,ZA,Johannesburg,2026-06-23,2026-07-04,330000.0,438400.0,ZAR,jobboard_b
+100497,2026-09,29,DevOps Engineer,IN,Pune,2026-06-30,2026-07-14,2624000.0,3780800.0,INR,company_site
+100498,2026-09,39,Backend Engineer,NG,Abuja,2026-07-08,2026-08-16,8069000.0,9691600.0,NGN,jobboard_a
+100499,2026-09,15,Accountant,GH,Accra,2026-08-29,,76000.0,117600.0,GHS,jobboard_b
+100500,2026-09,39,Software Engineer,NG,Lagos,2026-08-10,,3155000.0,4352900.0,NGN,jobboard_b
+100501,2026-09,28,Marketing Manager,IN,Bengaluru,2026-08-09,,,,,company_site
+100502,2026-09,28,Product Manager,IN,Pune,2026-08-12,,982000.0,1174800.0,INR,jobboard_a
+100503,2026-09,13,UX Designer,ZA,Cape Town,2026-08-24,,324000.0,387000.0,ZAR,company_site
+100504,2026-09,37,Customer Support Agent,KE,Nairobi,2026-08-29,,1791000.0,2518200.0,KES,company_site
+100505,2026-09,32,Software Engineer,KE,Nairobi,2026-07-10,,2579000.0,4092800.0,KES,jobboard_b
+100506,2026-09,19,Field Sales Rep,UG,Kampala,2026-07-16,,52846000.0,71881200.0,UGX,jobboard_b
+100507,2026-09,26,Marketing Manager,IN,Bengaluru,2026-08-31,,1450000.0,1706500.0,INR,jobboard_a
+100508,2026-09,13,DevOps Engineer,ZA,Cape Town,2026-08-29,,,,,jobboard_b
+100509,2026-09,35,Customer Support Agent,NG,Lagos,2026-06-22,2026-07-22,8144000.0,11098100.0,NGN,jobboard_a
+100510,2026-09,25,Analyste de données,FR,Lyon,2026-07-03,2026-07-30,62200.0,91600.0,EUR,jobboard_a
+100511,2026-09,27,HR Manager,ZA,Johannesburg,2026-08-18,,,,,company_site
+100512,2026-09,30,DevOps Engineer,IN,Pune,2026-07-04,,2531000.0,3684900.0,INR,jobboard_a
+100513,2026-09,24,Backend Engineer,GH,Accra,2026-08-11,2026-08-23,224000.0,325400.0,GHS,jobboard_a
+100514,2026-09,29,QA Engineer,IN,Pune,2026-08-08,,1974000.0,2767500.0,INR,jobboard_a
+100515,2026-09,23,Data Engineer,ZA,Cape Town,2026-07-08,,486000.0,539200.0,ZAR,jobboard_b
+100516,2026-09,16,HR Manager,GH,Accra,2026-06-23,2026-07-07,88000.0,112700.0,GHS,jobboard_b
+100517,2026-09,25,Développeur logiciel,FR,Paris,2026-06-08,2026-06-20,,,,jobboard_b
+100518,2026-09,30,Backend Engineer,IN,Bengaluru,2026-07-09,2026-07-17,1544000.0,1751800.0,INR,jobboard_a
+100519,2026-09,37,Mobile Developer,KE,Kisumu,2026-08-02,,3478000.0,4537600.0,KES,company_site
+100520,2026-09,18,Software Engineer,RW,Kigali,2026-08-11,,9365000.0,11578300.0,RWF,company_site
+100521,2026-09,16,Operations Lead,GH,Accra,2026-08-07,,102000.0,120300.0,GHS,jobboard_a
+100522,2026-09,38,UX Designer,KE,Nairobi,2026-08-11,,1354000.0,1759200.0,KES,jobboard_b
+100523,2026-09,7,DevOps Engineer,KE,Nairobi,2026-07-20,,2080000.0,2410800.0,KES,jobboard_b
+100524,2026-09,20,Sales Associate,UG,Kampala,2026-08-19,,76819000.0,104843600.0,UGX,jobboard_a
+100525,2026-09,3,Mobile Developer,KE,Nairobi,2026-06-26,,,,,jobboard_a
+100526,2026-09,26,Backend Engineer,US,New York,2026-07-20,2026-08-21,,,,jobboard_a
+100527,2026-09,17,Software Engineer,RW,Kigali,2026-07-05,2026-07-27,7172000.0,10163100.0,RWF,jobboard_b
+100528,2026-09,39,DevOps Engineer,NG,Abuja,2026-06-04,,8242000.0,9194700.0,NGN,jobboard_b
+100529,2026-09,4,Accountant,KE,Nairobi,2026-06-29,,3056000.0,4333900.0,KES,jobboard_a
+100530,2026-09,19,QA Engineer,UG,Kampala,2026-06-14,,,,,jobboard_b
+100531,2026-09,26,Finance Analyst,US,New York,2026-08-15,,84200.0,112800.0,USD,jobboard_b
+100532,2026-09,35,Software Engineer,FR,Paris,2026-08-18,,60900.0,70700.0,EUR,jobboard_a
+100533,2026-09,12,Backend Engineer,ZA,Cape Town,2026-07-12,2026-08-20,,,,jobboard_a
+100534,2026-09,26,Marketing Manager,US,New York,2026-06-20,,44800.0,64600.0,USD,jobboard_b
+100535,2026-09,39,UX Designer,NG,Abuja,2026-06-06,2026-07-14,11847000.0,16458400.0,NGN,company_site
+100536,2026-09,22,Field Sales Rep,UG,Kampala,2026-08-11,,13468000.0,17349300.0,UGX,jobboard_a
+100537,2026-09,38,HR Manager,KE,Nairobi,2026-07-23,,1383000.0,1924500.0,KES,jobboard_a
+100538,2026-09,29,Backend Engineer,IN,Bengaluru,2026-08-07,,2349000.0,3684900.0,INR,jobboard_a
+100539,2026-09,36,Analyste de données,FR,Lyon,2026-06-19,,49800.0,68500.0,EUR,jobboard_a
+100540,2026-09,5,Data Analyst,KE,Mombasa,2026-06-24,,732000.0,937900.0,KES,jobboard_a
+100541,2026-09,23,Développeur logiciel,FR,Lyon,2026-06-29,2026-08-02,43700.0,64500.0,EUR,company_site
+100542,2026-09,36,DevOps Engineer,NG,Lagos,2026-08-24,,8699000.0,12716000.0,NGN,jobboard_b
+100543,2026-09,2,Backend Engineer,KE,Nairobi,2026-08-03,,1583000.0,1814700.0,KES,company_site
+100544,2026-09,24,Field Sales Rep,FR,Lyon,2026-07-22,2026-08-22,39200.0,44200.0,EUR,jobboard_b
+100545,2026-09,40,Finance Analyst,GH,Accra,2026-07-22,,278000.0,427300.0,GHS,jobboard_a
+100546,2026-09,19,Data Engineer,KE,Nairobi,2026-06-11,,2061000.0,2533600.0,KES,jobboard_a
+100547,2026-09,39,Operations Lead,NG,Abuja,2026-08-27,,,,,jobboard_b
+100548,2026-09,18,Data Scientist,RW,Kigali,2026-08-10,,3286000.0,4859300.0,RWF,company_site
+100549,2026-09,13,Finance Analyst,ZA,Cape Town,2026-07-22,,663000.0,895500.0,ZAR,company_site
+100550,2026-09,38,Software Engineer,KE,Nairobi,2026-06-12,,1098000.0,1225500.0,KES,company_site
+100551,2026-09,8,Marketing Manager,KE,Kisumu,2026-07-12,2026-08-14,1119000.0,1276600.0,KES,jobboard_a
+100552,2026-09,13,Data Scientist,ZA,Cape Town,2026-06-16,,457000.0,650500.0,ZAR,jobboard_a
+100553,2026-09,35,Data Engineer,NG,Lagos,2026-08-03,,7025000.0,10986200.0,NGN,jobboard_b
+100554,2026-09,35,Software Engineer,KE,Kisumu,2026-08-11,,1025000.0,1410900.0,KES,jobboard_b
+100555,2026-09,9,UX Designer,TZ,Dar es Salaam,2026-07-24,,39344000.0,46783200.0,TZS,jobboard_a
+100556,2026-09,31,Field Sales Rep,KE,Nairobi,2026-07-13,,1187000.0,1632300.0,KES,jobboard_b
+100557,2026-09,1,Field Sales Rep,KE,Nairobi,2026-08-20,,2033000.0,2342600.0,KES,jobboard_a
+100558,2026-09,5,Data Engineer,KE,Kisumu,2026-07-05,,2252000.0,3570400.0,KES,jobboard_a
+100559,2026-09,21,Data Analyst,TZ,Dar es Salaam,2026-08-27,,14973000.0,23746800.0,TZS,jobboard_b
+100560,2026-09,42,HR Manager,KE,Mombasa,2026-07-11,,4055000.0,4770100.0,KES,jobboard_b
+100561,2026-09,19,Product Manager,UG,Kampala,2026-06-25,,57644000.0,84638400.0,UGX,company_site
+100562,2026-09,36,Customer Support Agent,NG,Lagos,2026-07-08,,2251000.0,3395900.0,NGN,jobboard_a
+100563,2026-09,15,Software Engineer,KE,Nairobi,2026-08-16,,1257000.0,1717500.0,KES,company_site
+100564,2026-09,39,Data Analyst,RW,Kigali,2026-06-11,,5494000.0,7525400.0,RWF,jobboard_a
+100565,2026-09,28,Field Sales Rep,IN,Pune,2026-06-10,,772000.0,1234400.0,INR,jobboard_a
+100566,2026-09,13,Mobile Developer,ZA,Johannesburg,2026-08-23,,445000.0,527600.0,ZAR,jobboard_a
+100567,2026-09,4,Field Sales Rep,KE,Kisumu,2026-07-31,,3239000.0,4298700.0,KES,jobboard_a
+100568,2026-09,28,Product Manager,IN,Pune,2026-08-30,,,,,jobboard_b
+100569,2026-09,30,Finance Analyst,IN,Pune,2026-07-01,,2045000.0,2464200.0,INR,jobboard_a
+100570,2026-09,9,Software Engineer,NG,Abuja,2026-06-13,2026-07-07,,,,jobboard_a
+100571,2026-09,21,Mobile Developer,TZ,Dar es Salaam,2026-06-12,,55240000.0,82661000.0,TZS,jobboard_a
+100572,2026-09,13,Backend Engineer,ZA,Cape Town,2026-06-23,,637000.0,952000.0,ZAR,jobboard_a
+100573,2026-09,26,Marketing Manager,US,Austin,2026-08-09,2026-08-25,93000.0,134700.0,USD,jobboard_b
+100574,2026-09,21,QA Engineer,TZ,Arusha,2026-08-07,,8177000.0,12642400.0,TZS,jobboard_a
+100575,2026-09,38,Product Manager,KE,Mombasa,2026-07-25,,3501000.0,3919700.0,KES,company_site
+100576,2026-09,22,UX Designer,TZ,Dar es Salaam,2026-06-23,2026-07-13,17328000.0,22950600.0,TZS,jobboard_b
+100577,2026-09,40,HR Manager,GH,Accra,2026-06-11,,184000.0,281500.0,GHS,jobboard_b
+100578,2026-09,12,UX Designer,ZA,Johannesburg,2026-08-02,,1015000.0,1192900.0,ZAR,company_site
+100579,2026-09,41,Marketing Manager,KE,Kisumu,2026-08-18,,1999000.0,2517600.0,KES,jobboard_a
+100580,2026-09,26,Operations Lead,US,Austin,2026-07-24,,80800.0,126400.0,USD,jobboard_b
+100581,2026-09,21,UX Designer,TZ,Dar es Salaam,2026-07-14,,48418000.0,62024800.0,TZS,jobboard_b
+100582,2026-09,23,Chef de produit,FR,Lyon,2026-06-19,,,,,jobboard_b
+100583,2026-09,27,Customer Support Agent,US,New York,2026-06-08,,,,,jobboard_b
+100584,2026-09,25,Chef de produit,FR,Lyon,2026-06-17,,,,,jobboard_a
+100585,2026-09,25,Product Manager,FR,Paris,2026-08-04,2026-08-31,,,,jobboard_a
+100586,2026-09,13,Data Analyst,ZA,Cape Town,2026-07-25,,747000.0,1135800.0,ZAR,jobboard_b
+100587,2026-09,10,Data Analyst,NG,Abuja,2026-07-28,,14239000.0,21157700.0,NGN,jobboard_a
+100588,2026-09,18,Data Scientist,RW,Kigali,2026-06-06,,13253000.0,16302200.0,RWF,company_site
+100589,2026-09,24,Chef de produit,FR,Lyon,2026-08-29,,34100.0,44900.0,EUR,jobboard_a
+100590,2026-09,29,Data Scientist,IN,Pune,2026-08-31,,,,,jobboard_b
+100591,2026-09,22,Finance Analyst,TZ,Arusha,2026-08-04,,26485000.0,42313600.0,TZS,jobboard_b
+100592,2026-09,8,Operations Lead,KE,Nairobi,2026-07-03,,,,,jobboard_b
+100593,2026-09,37,UX Designer,KE,Mombasa,2026-08-08,,2263000.0,2593200.0,KES,jobboard_b
+100594,2026-09,8,Data Scientist,KE,Kisumu,2026-07-04,2026-07-29,2365000.0,3398100.0,KES,jobboard_b
+100595,2026-09,14,Customer Support Agent,ZA,Johannesburg,2026-08-23,,960000.0,1147100.0,ZAR,company_site
+100596,2026-09,14,Accountant,ZA,Johannesburg,2026-06-08,,400000.0,536600.0,ZAR,jobboard_a
+100597,2026-09,36,Operations Lead,NG,Lagos,2026-07-14,,14131000.0,22538100.0,NGN,jobboard_b
+100598,2026-09,22,Product Manager,TZ,Dar es Salaam,2026-08-11,,39928000.0,58606900.0,TZS,jobboard_b
+100599,2026-09,28,Backend Engineer,IN,Bengaluru,2026-07-04,2026-08-04,1769000.0,2704100.0,INR,jobboard_a
+100600,2026-09,29,DevOps Engineer,IN,Pune,2026-07-05,2026-08-07,,,,company_site
+100601,2026-09,25,Sales Associate,FR,Paris,2026-06-23,,60600.0,92000.0,EUR,jobboard_a
+100602,2026-09,31,Software Engineer,US,Austin,2026-07-08,2026-08-12,47800.0,65700.0,USD,jobboard_a
+100603,2026-09,40,Data Engineer,GH,Accra,2026-06-21,,,,,jobboard_b
+100604,2026-09,19,Mobile Developer,UG,Kampala,2026-06-28,2026-08-09,23502000.0,36865000.0,UGX,jobboard_a
+100605,2026-09,27,Field Sales Rep,US,New York,2026-07-02,,94600.0,147000.0,USD,jobboard_b
+100606,2026-09,12,Data Engineer,ZA,Johannesburg,2026-07-16,2026-08-27,801000.0,1172900.0,ZAR,jobboard_a
+100607,2026-09,27,Mobile Developer,US,New York,2026-08-21,,41600.0,53600.0,USD,jobboard_a
+100608,2026-09,24,UX Designer,FR,Lyon,2026-07-17,2026-08-24,,,,jobboard_b
+100609,2026-09,22,UX Designer,TZ,Arusha,2026-07-13,2026-08-26,49926000.0,73830700.0,TZS,jobboard_a
+100610,2026-09,2,Field Sales Rep,KE,Mombasa,2026-08-30,,1741000.0,2425800.0,KES,jobboard_b
+100611,2026-09,9,Sales Associate,NG,Abuja,2026-08-28,,9301000.0,13688100.0,NGN,jobboard_b
+100612,2026-09,8,Analyste de données,FR,Lyon,2026-08-22,,57300.0,69400.0,EUR,company_site
+100613,2026-09,34,Product Manager,KE,Nairobi,2026-06-19,2026-07-20,1906000.0,2602500.0,KES,jobboard_a
+100614,2026-09,24,Développeur logiciel,FR,Lyon,2026-07-13,2026-07-22,61500.0,86600.0,EUR,jobboard_a
+100615,2026-09,40,Backend Engineer,TZ,Dar es Salaam,2026-06-14,2026-07-06,,,,jobboard_b
+100616,2026-09,2,Accountant,KE,Nairobi,2026-07-14,,,,,company_site
+100617,2026-09,27,UX Designer,US,Austin,2026-06-14,,48200.0,76500.0,USD,jobboard_a
+100618,2026-09,38,Sales Associate,KE,Kisumu,2026-07-08,2026-07-21,1978000.0,2187400.0,KES,jobboard_b
+100619,2026-09,32,Data Engineer,KE,Nairobi,2026-07-20,,620000.0,859400.0,KES,company_site
+100620,2026-09,10,Software Engineer,NG,Abuja,2026-06-28,,9704000.0,11595900.0,NGN,jobboard_a
+100621,2026-09,28,Customer Support Agent,IN,Pune,2026-07-26,,,,,company_site
+100622,2026-09,29,Sales Associate,IN,Bengaluru,2026-07-15,,2289000.0,2785000.0,INR,jobboard_b
+100623,2026-09,27,Data Engineer,US,Austin,2026-06-20,,61800.0,70800.0,USD,jobboard_b
+100624,2026-09,27,DevOps Engineer,US,Austin,2026-06-21,,50200.0,60600.0,USD,jobboard_a
+100625,2026-09,25,Backend Engineer,FR,Lyon,2026-06-25,,50400.0,65200.0,EUR,jobboard_b
+100626,2026-09,26,DevOps Engineer,US,Austin,2026-08-05,,50700.0,71300.0,USD,company_site
+100627,2026-09,19,Software Engineer,UG,Kampala,2026-07-02,2026-07-25,56920000.0,81652400.0,UGX,company_site
+100628,2026-09,5,Backend Engineer,ZA,Cape Town,2026-07-16,2026-08-12,,,,jobboard_b
+100629,2026-09,26,Marketing Manager,US,New York,2026-08-01,,,,,jobboard_a
+100630,2026-09,20,Finance Analyst,UG,Kampala,2026-06-15,,81638000.0,102386800.0,UGX,jobboard_b
+100631,2026-09,14,Ingénieur QA,FR,Lyon,2026-07-30,,51600.0,72400.0,EUR,jobboard_b
+100632,2026-09,21,Accountant,IN,Pune,2026-06-14,2026-07-19,1150000.0,1655700.0,INR,jobboard_a
+100633,2026-09,23,Data Scientist,FR,Lyon,2026-08-17,2026-08-30,56200.0,64900.0,EUR,company_site
+100634,2026-09,21,Data Scientist,TZ,Arusha,2026-08-11,,26028000.0,34295300.0,TZS,company_site
+100635,2026-09,8,Data Scientist,KE,Mombasa,2026-06-03,2026-06-11,1790000.0,2565900.0,KES,jobboard_b
+100636,2026-09,24,Customer Support Agent,FR,Lyon,2026-08-20,2026-08-29,,,,jobboard_a
+100637,2026-09,26,Accountant,US,Austin,2026-06-25,,,,,jobboard_a
+100638,2026-09,30,Data Engineer,IN,Pune,2026-08-26,,358000.0,470800.0,INR,jobboard_b
+100639,2026-09,26,Operations Lead,UG,Kampala,2026-06-14,,46380000.0,70701800.0,UGX,jobboard_a
+100640,2026-09,2,HR Manager,KE,Kisumu,2026-08-14,,3826000.0,5610600.0,KES,jobboard_b
+100641,2026-09,19,UX Designer,UG,Kampala,2026-06-30,,39786000.0,49094000.0,UGX,jobboard_a
+100642,2026-09,23,Développeur logiciel,FR,Lyon,2026-07-02,,25000.0,38000.0,EUR,jobboard_b
+100643,2026-09,17,DevOps Engineer,RW,Kigali,2026-06-18,,6911000.0,9124700.0,RWF,jobboard_a
+100644,2026-09,18,Customer Support Agent,RW,Kigali,2026-07-16,2026-08-28,,,,company_site
+100645,2026-09,7,Product Manager,KE,Kisumu,2026-06-22,2026-07-24,2817000.0,4450600.0,KES,company_site
+100646,2026-09,15,Field Sales Rep,GH,Accra,2026-07-30,,,,,jobboard_b
+100647,2026-09,30,Data Analyst,IN,Pune,2026-06-23,,1471000.0,1747500.0,INR,jobboard_a
+100648,2026-09,6,Marketing Manager,KE,Nairobi,2026-08-08,,1731000.0,2267700.0,KES,jobboard_a
+100649,2026-09,31,QA Engineer,KE,Kisumu,2026-07-17,,1980000.0,3084400.0,KES,jobboard_a
+100650,2026-09,40,HR Manager,GH,Accra,2026-06-24,,151000.0,233900.0,GHS,jobboard_a
+200001,2026-10,19,Mobile Developer,UG,Kampala,2026-07-24,2026-08-24,39651000.0,53814400.0,UGX,jobboard_b
+200002,2026-10,36,HR Manager,NG,Lagos,2026-07-25,,3440000.0,4715100.0,NGN,jobboard_a
+200003,2026-10,36,UX Designer,NG,Lagos,2026-07-09,,5159000.0,5945600.0,NGN,jobboard_a
+200004,2026-10,39,UX Designer,NG,Abuja,2026-07-05,2026-07-16,20375000.0,27375200.0,NGN,jobboard_a
+200005,2026-10,18,Mobile Developer,RW,Kigali,2026-08-16,,2405000.0,3469200.0,RWF,jobboard_a
+200006,2026-10,14,UX Designer,ZA,Cape Town,2026-07-08,,767000.0,1103800.0,ZAR,company_site
+200007,2026-10,26,Customer Support Agent,US,New York,2026-08-07,,93200.0,114400.0,USD,company_site
+200008,2026-10,17,Sales Associate,RW,Kigali,2026-08-29,,11639000.0,13644900.0,RWF,jobboard_a
+200009,2026-10,29,Data Analyst,IN,Pune,2026-07-30,2026-09-09,2682000.0,3227000.0,INR,jobboard_a
+200010,2026-10,34,Mobile Developer,ke,Mombasa,2026-08-17,,720000.0,841600.0,KES,jobboard_a
+200011,2026-10,40,Sales Associate,GH,Accra,2026-07-04,2026-07-22,151000.0,229200.0,GHS,jobboard_a
+200012,2026-10,6,HR Manager,TZ,Arusha,2026-07-07,2026-08-04,21456000.0,23857900.0,TZS,jobboard_a
+200014,2026-10,22,Customer Support Agent,TZ,Dar es Salaam,2026-07-25,,55722000.0,78579600.0,TZS,jobboard_a
+200015,2026-10,7,Sales Associate,ZA,Cape Town,2026-10-13,,383000.0,592500.0,ZAR,jobboard_b
+200016,2026-10,25,Chef de produit,FR,Paris,2026-07-24,,33600.0,51700.0,EUR,company_site
+200017,2026-10,20,DevOps Engineer,UG,Kampala,2026-07-11,,28795000.0,38874800.0,UGX,company_site
+200018,2026-10,25,Ingénieur QA,FR,Lyon,2026-08-19,,29800.0,38900.0,EUR,jobboard_b
+200019,2026-10,15,Finance Analyst,GH,Accra,2026-09-14,,214000.0,280900.0,GHS,jobboard_a
+200020,2026-10,41,Data Analyst,KE,Mombasa,2026-07-07,,4158000.0,5723300.0,KES,company_site
+200021,2026-10,31,Field Sales Rep,KE,Kisumu,2026-09-03,,2985000.0,4420000.0,KES,company_site
+200022,2026-10,17,Software Engineer,RW,Kigali,2026-07-22,2026-08-03,12885000.0,14543700.0,RWF,jobboard_a
+200023,2026-10,13,Sales Associate,ZA,Johannesburg,2026-09-30,,361000.0,437700.0,ZAR,jobboard_b
+200024,2026-10,14,Operations Lead,ZA,Cape Town,2026-07-14,2026-07-22,671000.0,1020900.0,ZAR,jobboard_a
+200025,2026-10,29,HR Manager,IN,Bengaluru,2026-07-13,,2082000.0,2308300.0,INR,company_site
+200026,2026-10,18,QA Engineer,RW,Kigali,2026-08-05,2026-09-15,3903000.0,4456700.0,RWF,company_site
+200027,2026-10,1,Data Engineer,KE,Nairobi,2026-07-23,2026-08-04,764000.0,927900.0,KES,jobboard_a
+200029,2026-10,30,Software Engineer,IN,Bengaluru,2026-09-25,,2415000.0,3274300.0,INR,jobboard_b
+200030,2026-10,5,Accountant,KE,Nairobi,2026-08-26,,1601000.0,1837200.0,KES,company_site
+200031,2026-10,18,DevOps Engineer,RW,Kigali,2026-07-19,,10424000.0,14248900.0,RWF,jobboard_a
+200032,2026-10,28,Data Engineer,TZ,Dar es Salaam,2026-07-31,,22491000.0,26588500.0,TZS,jobboard_a
+200033,2026-10,30,Sales Associate,IN,Bengaluru,2026-08-01,,529000.0,751600.0,INR,company_site
+200034,2026-10,18,Data Analyst,KE,Kisumu,2026-07-31,2026-07-28,,,,jobboard_a
+200035,2026-10,8,Product Manager,NG,Abuja,2026-11-14,,6281000.0,7243700.0,NGN,jobboard_a
+200036,2026-10,7,QA Engineer,KE,Kisumu,2026-08-02,2026-09-13,160700000.0,239160000.0,KES,jobboard_b
+200037,2026-10,12,Operations Lead,ZA,Cape Town,2026-09-16,,757000.0,863300.0,ZAR,jobboard_a
+200038,2026-10,5,Marketing Manager,KE,Mombasa,2026-07-14,,3443000.0,4836500.0,KES,jobboard_b
+200039,2026-10,6,Sales Associate,KE,Nairobi,2026-07-29,,3723000.0,4379700.0,KES,company_site
+200040,2026-10,21,Data Analyst,TZ,Arusha,2026-07-03,,14868000.0,18200500.0,TZS,jobboard_a
+200041,2026-10,39,Customer Support Agent,NG,Lagos,2026-07-06,,3036000.0,3512800.0,NGN,company_site
+200042,2026-10,24,DevOps Engineer,FR,Paris,2026-09-08,,33300.0,48700.0,EUR,company_site
+200043,2026-10,17,,IN,Bengaluru,2026-07-26,,1525000.0,2172500.0,INR,company_site
+200044,2026-10,18,Mobile Developer,RW,Kigali,2026-09-08,,13814000.0,19688200.0,RWF,jobboard_a
+200045,2026-10,17,,RW,Kigali,2026-08-16,,9228000.0,11667300.0,RWF,company_site
+200046,2026-10,20,Sales Associate,UG,Kampala,2026-08-10,,31402000.0,37375500.0,UGX,jobboard_b
+200048,2026-10,24,Product Manager,FR,Lyon,2026-09-14,,55500.0,80400.0,EUR,jobboard_b
+200049,2026-10,27,HR Manager,US,Austin,2026-09-15,,110900.0,144000.0,USD,jobboard_a
+200050,2026-10,27,HR Manager,US,Austin,2026-08-03,2026-09-14,122000.0,144700.0,USD,jobboard_a
+200051,2026-10,27,UX Designer,US,New York,2026-08-10,,83400.0,100200.0,USD,jobboard_b
+200052,2026-10,22,Data Analyst,TZ,Dar es Salaam,2026-07-21,,38414000.0,46476800.0,TZS,jobboard_a
+200053,2026-10,20,Software Engineer,UG,Kampala,2026-08-17,2026-09-23,38783000.0,57483400.0,UGX,jobboard_b
+200054,2026-10,13,QA Engineer,ZA,Johannesburg,2026-08-18,2026-09-17,428000.0,615500.0,ZAR,jobboard_a
+200055,2026-10,14,Data Engineer,ZA,Johannesburg,2026-09-21,,334000.0,505900.0,ZAR,jobboard_a
+200056,2026-10,2,Data Analyst,KE,Nairobi,2026-09-09,,1790000.0,2004200.0,KES,company_site
+200057,2026-10,28,Marketing Manager,IN,Bengaluru,2026-08-14,2026-08-30,905000.0,1248400.0,INR,jobboard_b
+200059,2026-10,27,Data Analyst,US,New York,2026-08-12,2026-08-22,109200.0,145500.0,USD,jobboard_a
+200060,2026-10,40,Marketing Manager,GH,Accra,2026-09-21,,,,,jobboard_a
+200061,2026-10,15,Sales Associate,GH,Accra,2026-08-10,,138000.0,163100.0,GHS,company_site
+200063,2026-10,35,Sales Associate,KE,Kisumu,2026-09-10,,2276000.0,3598500.0,KES,jobboard_b
+200064,2026-10,38,QA Engineer,KE,Nairobi,2026-08-30,,3659000.0,4422200.0,KES,jobboard_a
+200065,2026-10,13,Software Engineer,KE,Nairobi,2026-08-23,,1140000.0,1313900.0,KES,jobboard_b
+200066,2026-10,19,Software Engineer,UG,Kampala,2026-09-08,,12032000.0,17963300.0,UGX,jobboard_a
+200067,2026-10,17,Data Analyst,RW,Kigali,2026-07-04,,9546000.0,13914300.0,RWF,jobboard_a
+200068,2026-10,24,Ingénieur QA,FR,Lyon,2026-09-30,,27700.0,41200.0,EUR,jobboard_a
+200069,2026-10,27,Accountant,US,Austin,2026-08-30,,,,,company_site
+200070,2026-10,28,Product Manager,IN,Bengaluru,2026-09-17,,,,,company_site
+200071,2026-10,13,DevOps Engineer,ZA,Cape Town,2026-08-02,,828000.0,1313000.0,ZAR,jobboard_a
+200072,2026-10,18,UX Designer,IN,Pune,2026-08-15,,436000.0,547200.0,INR,jobboard_b
+200073,2026-10,30,Software Engineer,IN,Bengaluru,2026-09-29,,740000.0,1031700.0,INR,jobboard_a
+200074,2026-10,26,Marketing Manager,US,Austin,2026-09-05,,,,,jobboard_b
+200075,2026-10,35,Accountant,NG,Lagos,2026-09-02,,3544000.0,4079400.0,USD,jobboard_a
+200076,2026-10,5,,KE,Nairobi,2026-09-16,2026-09-23,2479000.0,3103900.0,KES,jobboard_b
+200077,2026-10,37,Product Manager,KE,Mombasa,2026-09-03,,,,,company_site
+200078,2026-10,15,QA Engineer,GH,Accra,2026-08-29,2026-09-17,67000.0,97000.0,GHS,company_site
+200079,2026-10,24,UX Designer,FR,Paris,2026-07-23,2026-09-06,54100.0,84700.0,EUR,jobboard_a
+200080,2026-10,18,Accountant,RW,Kigali,2026-09-16,,,,,jobboard_b
+200081,2026-10,32,UX Designer,KE,Mombasa,2026-08-05,2026-09-09,,,,jobboard_a
+200082,2026-10,41,Backend Engineer,KE,Nairobi,2026-09-06,,3917000.0,4500600.0,KES,jobboard_a
+200083,2026-10,21,Data Engineer,TZ,Arusha,2026-08-06,2026-08-20,46503000.0,74236400.0,TZS,company_site
+200084,2026-10,25,Ingénieur QA,FR,Lyon,2026-08-15,,50300.0,59000.0,EUR,jobboard_b
+200085,2026-10,24,UX Designer,FR,Paris,2026-08-19,,57800.0,74900.0,EUR,jobboard_a
+200086,2026-10,13,Accountant,ZA,Johannesburg,2026-07-21,2026-08-26,533000.0,596400.0,ZAR,jobboard_b
+200087,2026-10,39,Operations Lead,NG,Lagos,2026-09-02,,3800000.0,4203900.0,NGN,company_site
+200088,2026-10,34,Software Engineer,KE,Nairobi,2026-07-20,2026-07-27,702000.0,1050600.0,KES,jobboard_a
+200089,2026-10,18,Field Sales Rep,UG,Kampala,2026-08-30,,34365000.0,40878300.0,UGX,jobboard_a
+200090,2026-10,18,Data Analyst,RW,Kigali,2026-07-25,2026-08-18,11155000.0,14826600.0,RWF,company_site
+200091,2026-10,903,Product Manager,IN,Bengaluru,2026-08-26,2026-09-10,435000.0,577400.0,INR,jobboard_a
+200092,2026-10,29,Accountant,IN,Bengaluru,2026-08-30,,2477000.0,3172200.0,INR,jobboard_b
+200093,2026-10,36,Field Sales Rep,NG,Abuja,2026-08-16,,16864000.0,21418800.0,NGN,company_site
+200094,2026-10,22,HR Manager,TZ,Dar es Salaam,2026-08-04,,15045000.0,21945500.0,TZS,jobboard_a
+200095,2026-10,40,Data Scientist,TZ,Dar es Salaam,2026-09-20,,45931000.0,54620900.0,TZS,jobboard_a
+200096,2026-10,42,Mobile Developer,KE,Nairobi,2026-07-13,,2024000.0,2927800.0,KES,jobboard_a
+200097,2026-10,39,Mobile Developer,US,New York,2026-07-24,,74800.0,103600.0,USD,jobboard_b
+200098,2026-10,5,Backend Engineer,KE,Kisumu,2026-07-27,2026-08-03,-1251000.0,1491600.0,KES,jobboard_a
+200099,2026-10,19,Finance Analyst,UG,Kampala,2026-09-24,,,,,jobboard_a
+200100,2026-10,16,Software Engineer,GH,Accra,2026-08-17,2026-09-24,257000.0,350800.0,GHS,jobboard_a
+200101,2026-10,40,Data Engineer,GH,Accra,2026-07-10,2026-08-09,,,,company_site
+200102,2026-10,14,Field Sales Rep,ZA,Cape Town,2026-07-03,2026-07-14,467000.0,520600.0,ZAR,jobboard_b
+200103,2026-10,19,Sales Associate,UG,Kampala,2026-09-29,,24362000.0,38565200.0,UGX,jobboard_b
+200104,2026-10,10,Data Scientist,NG,Abuja,2026-08-08,,19933000.0,30216600.0,NGN,jobboard_a
+200106,2026-10,6,Data Engineer,KE,Kisumu,2026-08-02,,2033000.0,3033600.0,KES,jobboard_a
+200107,2026-10,18,Data Analyst,RW,Kigali,2026-07-27,2026-08-19,4543000.0,6223300.0,RWF,jobboard_a
+200108,2026-10,19,Data Analyst,NG,Lagos,2026-07-21,,19057000.0,28264000.0,NGN,company_site
+200109,2026-10,37,Mobile Developer,KE,Nairobi,2026-09-27,,,,,jobboard_a
+200110,2026-10,8,Data Analyst,KE,Nairobi,2026-07-16,2026-08-20,1019000.0,1320200.0,KES,company_site
+200111,2026-10,34,Data Engineer,KE,Nairobi,2026-09-08,2026-09-23,886000.0,1230600.0,KES,jobboard_a
+200112,2026-10,30,HR Manager,IN,Bengaluru,2026-07-28,2026-09-08,2415000.0,3620800.0,INR,jobboard_a
+200113,2026-10,41,Operations Lead,KE,Nairobi,2026-08-04,,4145000.0,4926900.0,KES,jobboard_b
+200114,2026-10,35,QA Engineer,IN,Pune,2026-07-27,,576000.0,777100.0,INR,jobboard_a
+200115,2026-10,28,Product Manager,IN,Bengaluru,2026-08-07,,2527000.0,3165300.0,INR,company_site
+200116,2026-10,29,DevOps Engineer,IN,Pune,2026-09-17,,2301000.0,3224000.0,INR,jobboard_a
+200117,2026-10,12,Data Scientist,GH,Accra,2026-08-09,,185000.0,276500.0,GHS,jobboard_a
+200118,2026-10,12,HR Manager,ZA,Cape Town,2026-09-23,,599000.0,665700.0,ZAR,jobboard_a
+200119,2026-10,25,Analyste de données,FR,Lyon,2026-07-20,,58200.0,89200.0,EUR,company_site
+200120,2026-10,31,Sales Associate,KE,Mombasa,2026-07-19,,1667000.0,2507600.0,KES,jobboard_a
+200121,2026-10,13,Accountant,ZA,Johannesburg,2026-08-06,2026-09-14,361000.0,457100.0,ZAR,jobboard_a
+200122,2026-10,19,Field Sales Rep,UG,Kampala,2026-07-27,2026-08-29,66019000.0,88682800.0,UGX,jobboard_b
+200123,2026-10,28,Mobile Developer,IN,Bengaluru,2026-08-14,2026-08-24,,,,jobboard_a
+200124,2026-10,29,Backend Engineer,IN,Pune,2026-08-12,2026-09-04,570000.0,808300.0,INR,jobboard_a
+200125,2026-10,17,Software Engineer,RW,Kigali,2026-08-26,,9828000.0,13073500.0,RWF,jobboard_a
+200126,2026-10,10,DevOps Engineer,NG,Abuja,2026-09-13,,6731000.0,8738900.0,NGN,jobboard_a
+200127,2026-10,30,QA Engineer,RW,Kigali,2026-09-21,,12700000.0,14886400.0,RWF,company_site
+200128,2026-10,27,Backend Engineer,US,New York,2026-09-26,,73500.0,97400.0,USD,company_site
+200129,2026-10,40,Data Scientist,GH,Accra,2026-09-27,2026-09-23,228000.0,328900.0,GHS,jobboard_b
+200130,2026-10,36,,KE,Mombasa,2026-08-17,2026-09-12,1900000.0,2888700.0,KES,jobboard_a
+200131,2026-10,32,Sales Associate,ke,Kisumu,2026-09-26,,2884000.0,3859200.0,KES,jobboard_b
+200132,2026-10,27,Finance Analyst,US,Austin,2026-07-04,,,,,company_site
+200133,2026-10,24,Ingénieur QA,FR,Paris,2026-07-14,2026-07-25,38700.0,61000.0,EUR,jobboard_b
+200134,2026-10,4,Field Sales Rep,KE,Kisumu,2026-08-11,2026-08-21,,,,jobboard_a
+200135,2026-10,17,Data Engineer,RW,Kigali,2026-08-20,,4504000.0,5560900.0,RWF,jobboard_a
+200136,2026-10,10,UX Designer,NG,Lagos,2026-09-23,,9932000.0,14550400.0,NGN,company_site
+200137,2026-10,7,Backend Engineer,KE,Mombasa,2026-09-22,,3745000.0,5514900.0,KES,company_site
+200138,2026-10,5,DevOps Engineer,US,Austin,2026-07-18,2026-08-05,65000.0,101600.0,USD,company_site
+200139,2026-10,31,Data Analyst,KE,Kisumu,2026-09-07,,782000.0,881500.0,KES,jobboard_a
+200140,2026-10,12,Accountant,ZA,Johannesburg,2026-08-09,2026-09-15,699000.0,1087900.0,ZAR,jobboard_b
+200141,2026-10,17,Data Engineer,RW,Kigali,2026-08-23,2026-09-03,,,,jobboard_a
+200142,2026-10,20,Customer Support Agent,UG,Kampala,2026-07-10,,54884000.0,68992600.0,UGX,jobboard_a
+200143,2026-10,25,Marketing Manager,GH,Accra,2026-07-21,2026-07-29,158000.0,177100.0,GHS,company_site
+200144,2026-10,26,Field Sales Rep,US,Austin,2026-08-25,,62100.0,69800.0,USD,jobboard_a
+200145,2026-10,10,Data Analyst,NG,Lagos,2026-09-02,,6675000.0,9641600.0,NGN,jobboard_a
+200146,2026-10,14,Sales Associate,ZA,Johannesburg,2026-07-31,,687000.0,839100.0,ZAR,jobboard_a
+200147,2026-10,1,QA Engineer,UG,Kampala,2026-09-29,,12512000.0,17393600.0,UGX,jobboard_a
+200148,2026-10,12,UX Designer,ZA,Johannesburg,2026-08-08,,307000.0,485100.0,ZAR,company_site
+200150,2026-10,8,QA Engineer,KE,Kisumu,2026-09-11,,122100000.0,162930000.0,KES,jobboard_b
+200151,2026-10,4,Customer Support Agent,KE,Nairobi,2026-09-16,,1167000.0,1798900.0,KES,jobboard_a
+200152,2026-10,14,Field Sales Rep,US,Austin,2026-09-24,,154400.0,100700.0,USD,jobboard_a
+200153,2026-10,16,Backend Engineer,GH,Accra,2026-09-12,,35000.0,52800.0,GHS,jobboard_a
+200154,2026-10,24,Analyste de données,FR,Paris,2026-08-29,,49800.0,78300.0,EUR,company_site
+200155,2026-10,15,UX Designer,GH,Accra,2026-09-12,,,,,jobboard_b
+200156,2026-10,23,Chef de produit,FR,Lyon,2026-07-12,,58900.0,84400.0,EUR,jobboard_a
+200157,2026-10,20,Operations Lead,UG,Kampala,2026-07-05,2026-08-04,51763000.0,70029600.0,UGX,company_site
+200158,2026-10,9,Data Engineer,NG,Lagos,2026-07-20,,,,,jobboard_a
+200159,2026-10,20,UX Designer,UG,Kampala,2026-08-29,,65913000.0,91269800.0,UGX,jobboard_a
+200160,2026-10,28,Data Engineer,IN,Pune,2026-07-14,,2616000.0,2933000.0,INR,jobboard_b
+200161,2026-10,41,Marketing Manager,KE,Nairobi,2026-07-27,2026-08-23,1324000.0,1537600.0,KES,jobboard_a
+200162,2026-10,25,Chef de produit,FR,Lyon,2026-08-02,2026-08-16,57700.0,72500.0,EUR,company_site
+200164,2026-10,29,Accountant,IN,Pune,2026-09-11,,2616000.0,4095800.0,INR,company_site
+200165,2026-10,13,Customer Support Agent,ZA,Johannesburg,2026-09-06,2026-09-23,599000.0,718700.0,ZAR,jobboard_a
+200166,2026-10,6,Marketing Manager,KE,Kisumu,2026-08-16,2026-09-09,4185000.0,6694700.0,KES,jobboard_a
+200167,2026-10,31,Data Scientist,KE,Kisumu,2026-09-15,,2207000.0,3255300.0,KES,jobboard_a
+200168,2026-10,32,Customer Support Agent,TZ,Dar es Salaam,2026-07-27,,,,,company_site
+200169,2026-10,19,Data Scientist,UG,Kampala,2026-08-13,,,,,jobboard_b
+200170,2026-10,40,Field Sales Rep,GH,Accra,2026-08-09,2026-08-21,191000.0,269800.0,GHS,jobboard_a
+200171,2026-10,19,Data Analyst,UG,Kampala,2026-08-27,,55652000.0,62156100.0,UGX,jobboard_b
+200172,2026-10,25,HR Manager,FR,Lyon,2026-08-09,2026-08-28,28300.0,39600.0,EUR,company_site
+200173,2026-10,12,DevOps Engineer,ZA,Johannesburg,2026-07-15,,243000.0,378100.0,ZAR,company_site
+200174,2026-10,13,Accountant,ZA,Johannesburg,2026-08-14,2026-09-14,559000.0,687900.0,ZAR,company_site
+200175,2026-10,17,HR Manager,RW,Kigali,2026-08-18,2026-09-02,9712000.0,13640000.0,RWF,jobboard_a
+200176,2026-10,5,Mobile Developer,KE,Kisumu,2026-07-11,,962000.0,1156700.0,KES,jobboard_b
+200178,2026-10,10,DevOps Engineer,NG,Abuja,2026-09-02,,13094000.0,18636200.0,USD,jobboard_a
+200179,2026-10,28,Operations Lead,RW,Kigali,2026-09-24,,12943000.0,14422400.0,RWF,jobboard_a
+200180,2026-10,22,Finance Analyst,TZ,Arusha,2026-09-04,,53728000.0,69491000.0,TZS,company_site
+200181,2026-10,7,Data Engineer,KE,Mombasa,2026-08-13,,3105000.0,4293700.0,KES,jobboard_b
+200182,2026-10,8,DevOps Engineer,KE,Mombasa,2026-08-21,2026-09-22,,,,company_site
+200183,2026-10,21,Mobile Developer,TZ,Arusha,2026-09-27,,17810000.0,27650600.0,TZS,company_site
+200184,2026-10,28,QA Engineer,IN,Pune,2026-07-29,2026-08-31,2621000.0,3519900.0,INR,company_site
+200185,2026-10,1,Mobile Developer,KEN,Nairobi,2026-07-03,,1601000.0,1924300.0,KES,jobboard_a
+200186,2026-10,20,HR Manager,UG,Kampala,2026-09-13,,,,,jobboard_a
+200187,2026-10,14,Data Analyst,ZA,Cape Town,2026-08-31,2026-09-23,820000.0,1066800.0,ZAR,jobboard_a
+200188,2026-10,15,UX Designer,US,New York,2026-07-19,2026-08-11,88900.0,124900.0,USD,company_site
+200189,2026-10,30,Software Engineer,IN,Pune,2026-07-29,,1374000.0,2171900.0,INR,jobboard_a
+200190,2026-10,12,Backend Engineer,ZA,Cape Town,2026-07-18,,651000.0,1013300.0,ZAR,company_site
+200191,2026-10,7,UX Designer,KE,Nairobi,2026-08-27,2026-09-06,3059000.0,3853300.0,KES,jobboard_a
+200192,2026-10,6,QA Engineer,RW,Kigali,2026-08-09,2026-08-24,6461000.0,9005700.0,RWF,jobboard_a
+200193,2026-10,4,DevOps Engineer,KEN,Mombasa,2026-08-24,,1530000.0,2400600.0,KES,jobboard_a
+200194,2026-10,13,UX Designer,ZA,Cape Town,2026-09-15,2026-09-22,192000.0,302700.0,ZAR,company_site
+200195,2026-10,28,Customer Support Agent,IN,Pune,2026-09-02,,2152000.0,2998900.0,INR,jobboard_a
+200196,2026-10,24,Ingénieur QA,FR,Lyon,2026-08-30,,46200.0,56600.0,EUR,jobboard_b
+200197,2026-10,33,DevOps Engineer,KE,Kisumu,2026-08-17,2026-09-19,3397000.0,4061900.0,KES,jobboard_a
+200198,2026-10,3,Operations Lead,KE,Mombasa,2026-09-15,,1208000.0,1826400.0,KES,jobboard_b
+200199,2026-10,8,Sales Associate,KE,Kisumu,2026-08-09,,1999000.0,3194300.0,KES,company_site
+200200,2026-10,30,Field Sales Rep,IN,Bengaluru,2026-07-19,2026-07-27,475000.0,621700.0,INR,company_site
+200201,2026-10,25,Chef de produit,FR,Lyon,2026-07-20,,44500.0,68400.0,EUR,jobboard_a
+200202,2026-10,24,Data Scientist,FR,Lyon,2026-08-31,,,,,jobboard_a
+200203,2026-10,29,Data Engineer,IN,Bengaluru,2026-08-02,,1837000.0,2626800.0,INR,jobboard_a
+200204,2026-10,1,Sales Associate,KE,Nairobi,2026-07-15,2026-08-23,,,,company_site
+200205,2026-10,6,DevOps Engineer,KE,Mombasa,2026-07-07,2026-07-19,3846000.0,5285600.0,KES,jobboard_b
+200206,2026-10,11,Sales Associate,NG,Lagos,2026-09-17,,12191000.0,13782500.0,NGN,jobboard_a
+200207,2026-10,24,Mobile Developer,FR,Paris,2026-07-31,,33500.0,52900.0,EUR,company_site
+200208,2026-10,20,Field Sales Rep,NG,Lagos,2026-07-31,,19339000.0,28520600.0,NGN,company_site
+200209,2026-10,23,Customer Support Agent,FR,Lyon,2026-09-04,,44800.0,66400.0,EUR,jobboard_a
+200210,2026-10,31,Sales Associate,KE,Mombasa,2026-07-23,,3631000.0,4365400.0,KES,jobboard_a
+200211,2026-10,14,Operations Lead,ZA,Cape Town,2026-07-25,,740000.0,1085800.0,ZAR,jobboard_a
+200212,2026-10,41,DevOps Engineer,KE,Nairobi,2026-08-16,2026-08-23,1971000.0,2775800.0,KES,jobboard_a
+200213,2026-10,30,Data Analyst,IN,Bengaluru,2026-07-13,2026-08-17,,,,jobboard_b
+200214,2026-10,14,Finance Analyst,ZA,Johannesburg,2026-08-27,,276000.0,386400.0,ZAR,jobboard_b
+200215,2026-10,20,Data Analyst,UG,Kampala,2026-08-08,,57807000.0,88753000.0,UGX,jobboard_a
+200216,2026-10,27,Data Scientist,US,Austin,2026-07-29,,116200.0,137600.0,USD,jobboard_b
+200217,2026-10,12,HR Manager,ZA,Cape Town,2026-08-28,2026-09-30,218000.0,272500.0,ZAR,company_site
+200218,2026-10,17,DevOps Engineer,RW,Kigali,2026-07-05,,12056000.0,14509700.0,RWF,jobboard_a
+200219,2026-10,29,Marketing Manager,IN,Bengaluru,2026-08-17,,,,,jobboard_a
+200220,2026-10,13,Data Scientist,ZA,Johannesburg,2026-09-20,,411000.0,467000.0,ZAR,jobboard_a
+200221,2026-10,27,Customer Support Agent,US,New York,2026-07-22,,113400.0,162800.0,USD,jobboard_b
+200222,2026-10,39,Accountant,GH,Accra,2026-08-09,,,,,jobboard_b
+200223,2026-10,16,Mobile Developer,GH,Accra,2026-09-22,,244000.0,349900.0,GHS,jobboard_b
+200224,2026-10,23,Ingénieur QA,FR,Paris,2026-09-29,,49500.0,77300.0,EUR,jobboard_a
+200225,2026-10,8,Backend Engineer,KE,Nairobi,2026-09-17,,1113000.0,1525400.0,KES,jobboard_a
+200226,2026-10,30,DevOps Engineer,IN,Bengaluru,2026-09-01,,,,,jobboard_a
+200227,2026-10,32,Finance Analyst,KE,Nairobi,2026-09-02,,1730000.0,1903600.0,KES,jobboard_a
+200228,2026-10,3,HR Manager,KE,Kisumu,2026-08-01,2026-08-18,3153000.0,3658300.0,KES,jobboard_a
+200229,2026-10,37,Sales Associate,KE,Kisumu,2026-08-04,,3950000.0,5968500.0,KES,company_site
+200230,2026-10,30,Data Engineer,IN,Pune,2026-08-22,,1944000.0,2224100.0,INR,jobboard_a
+200231,2026-10,31,UX Designer,KE,Kisumu,2026-08-25,,2113000.0,2995300.0,KES,jobboard_b
+200232,2026-10,24,Operations Lead,RW,Kigali,2026-10-27,,10221000.0,12813100.0,RWF,jobboard_a
+200233,2026-10,18,Data Engineer,Kenya,Mombasa,2026-08-21,,1846000.0,2259700.0,KES,jobboard_a
+200235,2026-10,40,Operations Lead,GH,Accra,2026-08-19,,258000.0,307900.0,GHS,jobboard_a
+200237,2026-10,24,Chef de produit,FR,Paris,2026-09-10,,51800.0,68200.0,EUR,jobboard_b
+200238,2026-10,14,Software Engineer,ZA,Johannesburg,2026-07-28,,721000.0,854300.0,ZAR,jobboard_a
+200239,2026-10,20,Operations Lead,UG,Kampala,2026-08-19,,,,,company_site
+200240,2026-10,35,Data Scientist,NG,Abuja,2026-09-23,,17814000.0,25682200.0,NGN,jobboard_a
+200241,2026-10,20,Backend Engineer,UG,Kampala,2026-09-15,2026-09-24,54384000.0,66578900.0,UGX,jobboard_b
+200242,2026-10,12,DevOps Engineer,ZA,Cape Town,2026-08-18,,,,,company_site
+200243,2026-10,40,Product Manager,GH,Accra,2026-07-11,2026-08-07,88000.0,122100.0,GHS,jobboard_b
+200244,2026-10,4,Data Analyst,KE,Kisumu,2026-09-02,2026-09-09,1700000.0,2313100.0,KES,jobboard_a
+200245,2026-10,35,Accountant,NG,Lagos,2026-08-31,,,,,jobboard_a
+200246,2026-10,29,Finance Analyst,IN,Pune,2026-07-27,,1980000.0,2549700.0,INR,jobboard_a
+200247,2026-10,905,Sales Associate,ZA,Cape Town,2026-08-13,,679000.0,759000.0,ZAR,jobboard_b
+200248,2026-10,32,Data Engineer,Kenya,Kisumu,2026-08-17,2026-09-14,1487000.0,1742100.0,KES,jobboard_b
+200249,2026-10,37,Sales Associate,KE,Nairobi,2026-07-06,,,,,jobboard_b
+200250,2026-10,26,,US,New York,2026-09-20,,120400.0,157700.0,USD,jobboard_b
+200251,2026-10,27,Customer Support Agent,US,Austin,2026-08-27,2026-09-06,62800.0,76600.0,USD,jobboard_a
+200252,2026-10,13,Accountant,ZA,Johannesburg,2026-08-06,,544000.0,801900.0,ZAR,jobboard_a
+200253,2026-10,1,Finance Analyst,KE,Kisumu,2026-08-09,,1008000.0,1451000.0,KES,jobboard_b
+200254,2026-10,5,QA Engineer,KE,Nairobi,2026-07-26,,3460000.0,4932300.0,KES,jobboard_b
+200255,2026-10,4,Software Engineer,UG,Kampala,2026-08-10,,22661000.0,25015200.0,UGX,company_site
+200256,2026-10,27,Finance Analyst,US,Austin,2026-07-14,2026-08-16,,,,jobboard_a
+200257,2026-10,26,Mobile Developer,US,New York,2026-07-08,,102000.0,136600.0,USD,jobboard_a
+200258,2026-10,27,Product Manager,US,Austin,2026-09-02,2026-09-09,88000.0,134000.0,USD,jobboard_b
+200259,2026-10,12,Data Engineer,ZA,Johannesburg,2026-07-16,2026-08-24,602000.0,903500.0,ZAR,company_site
+200260,2026-10,34,QA Engineer,KE,Nairobi,2026-07-10,,4166000.0,5977500.0,KES,jobboard_b
+200261,2026-10,33,Accountant,Kenya,Kisumu,2026-07-18,2026-08-03,1515000.0,2060100.0,KES,jobboard_b
+200262,2026-10,904,Marketing Manager,RW,Kigali,2026-07-06,2026-08-01,4568000.0,5536800.0,RWF,jobboard_a
+200264,2026-10,41,Data Engineer,KE,Mombasa,2026-08-31,,345800000.0,481910000.0,KES,jobboard_b
+200265,2026-10,15,Software Engineer,ke,Nairobi,2026-09-30,,867000.0,1088700.0,KES,jobboard_b
+200266,2026-10,10,Backend Engineer,NG,Abuja,2026-09-29,,17130000.0,22651700.0,NGN,jobboard_a
+200267,2026-10,21,Data Scientist,KE,Kisumu,2026-07-18,,635000.0,724200.0,KES,company_site
+200269,2026-10,8,Finance Analyst,KE,Kisumu,2026-08-07,,,,,company_site
+200270,2026-10,21,Marketing Manager,TZ,Dar es Salaam,2026-08-08,,,,,jobboard_a
+200271,2026-10,26,Software Engineer,US,Austin,2026-07-04,,87700.0,118900.0,USD,jobboard_a
+200273,2026-10,11,Finance Analyst,NG,Abuja,2026-09-21,,14422000.0,17966800.0,USD,jobboard_a
+200274,2026-10,27,DevOps Engineer,US,New York,2026-07-11,,52600.0,60700.0,USD,jobboard_a
+200275,2026-10,13,Mobile Developer,ZA,Johannesburg,2026-08-23,,,,,jobboard_a
+200276,2026-10,23,QA Engineer,FR,Paris,2026-07-25,,60000.0,80000.0,EUR,company_site
+200277,2026-10,10,QA Engineer,NG,Lagos,2026-08-09,,12865000.0,19436100.0,NGN,jobboard_a
+200278,2026-10,17,DevOps Engineer,RW,Kigali,2026-08-13,2026-09-05,3559000.0,4774500.0,RWF,jobboard_b
+200279,2026-10,901,Field Sales Rep,NG,Abuja,2026-08-09,,9097000.0,10854200.0,NGN,company_site
+200280,2026-10,29,DevOps Engineer,IN,Bengaluru,2026-09-16,,851000.0,1029100.0,INR,jobboard_a
+200281,2026-10,20,Data Analyst,UG,Kampala,2026-08-01,,75449000.0,105932300.0,UGX,jobboard_a
+200282,2026-10,29,Accountant,IN,Pune,2026-09-21,,1506000.0,1771500.0,INR,company_site
+200283,2026-10,6,QA Engineer,KE,Kisumu,2026-07-27,,3195000.0,4743500.0,KES,jobboard_a
+200284,2026-10,12,Data Analyst,ZA,Cape Town,2026-09-17,,976000.0,1129100.0,ZAR,jobboard_a
+200285,2026-10,38,Marketing Manager,GH,Accra,2026-07-07,,209000.0,298300.0,GHS,company_site
+200286,2026-10,22,Finance Analyst,TZ,Arusha,2026-09-17,,13372000.0,19792700.0,TZS,jobboard_a
+200287,2026-10,27,Field Sales Rep,US,New York,2026-07-10,2026-08-17,86200.0,137000.0,USD,jobboard_a
+200288,2026-10,17,Finance Analyst,RW,Kigali,2026-09-09,,9607000.0,10940800.0,RWF,company_site
+200289,2026-10,1,DevOps Engineer,NG,Lagos,2026-08-30,,,,,jobboard_a
+200290,2026-10,21,Sales Associate,TZ,Arusha,2026-07-19,,10925000.0,14268500.0,TZS,jobboard_b
+200292,2026-10,14,DevOps Engineer,ZA,Cape Town,2026-07-07,,185000.0,265500.0,ZAR,jobboard_b
+200293,2026-10,40,Product Manager,GH,Accra,2026-08-12,,103000.0,119400.0,GHS,jobboard_a
+200294,2026-10,14,Data Engineer,ZA,Johannesburg,2026-07-13,2026-08-26,863000.0,1097700.0,ZAR,jobboard_b
+200295,2026-10,36,Data Scientist,NG,Abuja,2026-09-10,,5485000.0,8440700.0,NGN,company_site
+200296,2026-10,5,QA Engineer,KE,Nairobi,2026-09-08,,1317000.0,2003500.0,KES,jobboard_b
+200297,2026-10,15,Marketing Manager,GH,Accra,2026-07-15,,34000.0,43200.0,GHS,jobboard_a
+200298,2026-10,4,Customer Support Agent,KE,Mombasa,2026-08-14,,3727000.0,5183700.0,KES,company_site
+200299,2026-10,27,Finance Analyst,US,New York,2026-08-18,2026-09-20,94700.0,142600.0,USD,jobboard_b
+200300,2026-10,904,Customer Support Agent,NG,Lagos,2026-08-10,,10316000.0,12446800.0,NGN,jobboard_a
+200301,2026-10,19,UX Designer,UG,Kampala,2026-08-19,2026-09-09,,,,jobboard_a
+200302,2026-10,40,Customer Support Agent,GH,Accra,2026-07-30,2026-08-11,232000.0,308700.0,GHS,jobboard_a
+200303,2026-10,21,Customer Support Agent,KE,Mombasa,2026-09-21,2026-09-05,1814000.0,2182900.0,KES,jobboard_a
+200304,2026-10,40,Backend Engineer,GH,Accra,2026-07-07,,80000.0,101200.0,GHS,jobboard_b
+200305,2026-10,36,Software Engineer,US,Austin,2026-09-29,,86700.0,136200.0,USD,jobboard_a
+200306,2026-10,6,,KE,Kisumu,2026-09-11,,3113000.0,4055500.0,KES,jobboard_b
+200307,2026-10,38,Data Scientist,KE,Nairobi,2026-07-09,2026-08-06,3993000.0,5719900.0,KES,jobboard_a
+200308,2026-10,20,Backend Engineer,UG,Kampala,2026-09-04,,,,,jobboard_b
+200309,2026-10,36,Software Engineer,US,New York,2026-09-13,,,,,jobboard_b
+200310,2026-10,6,Data Engineer,KE,Kisumu,2026-09-03,,2439000.0,2918400.0,KES,company_site
+200311,2026-10,38,UX Designer,KE,Nairobi,2026-07-25,2026-08-05,1852000.0,2217300.0,KES,jobboard_b
+200312,2026-10,40,UX Designer,GH,Accra,2026-08-17,,209000.0,251500.0,GHS,jobboard_b
+200313,2026-10,27,Field Sales Rep,US,New York,2026-08-07,2026-09-09,,,,jobboard_a
+200314,2026-10,29,HR Manager,IN,Bengaluru,2026-08-30,,,,,jobboard_a
+200315,2026-10,12,Accountant,ZA,Johannesburg,2026-07-18,,777000.0,1011400.0,ZAR,jobboard_b
+200316,2026-10,19,Accountant,UG,Kampala,2026-09-02,,44253000.0,59034700.0,UGX,jobboard_a
+200317,2026-10,11,Data Analyst,NG,Lagos,2026-09-01,,,,,jobboard_a
+200318,2026-10,26,Software Engineer,US,Austin,2026-07-26,,82400.0,108800.0,USD,jobboard_a
+200319,2026-10,4,Finance Analyst,KEN,Kisumu,2026-08-27,,3977000.0,5983300.0,KES,jobboard_a
+200321,2026-10,7,DevOps Engineer,KE,Nairobi,2026-08-18,2026-09-16,2137000.0,2419900.0,KES,company_site
+200322,2026-10,27,DevOps Engineer,US,Austin,2026-09-12,,112700.0,129700.0,USD,company_site
+200323,2026-10,30,UX Designer,KE,Nairobi,2026-08-24,2026-09-12,1330000.0,1907500.0,KES,jobboard_a
+200324,2026-10,25,Data Analyst,FR,Lyon,2026-07-31,,53600.0,74800.0,EUR,jobboard_b
+200325,2026-10,25,Customer Support Agent,FR,Paris,2026-08-25,,62900.0,46000.0,EUR,company_site
+200326,2026-10,23,Chef de produit,FR,Lyon,2026-08-06,,29100.0,45400.0,EUR,jobboard_a
+200327,2026-10,29,Data Analyst,IN,Bengaluru,2026-08-13,,2212000.0,2918600.0,INR,jobboard_a
+200328,2026-10,16,Sales Associate,GH,Accra,2026-07-30,2026-08-15,45000.0,53600.0,GHS,company_site
+200329,2026-10,22,HR Manager,TZ,Dar es Salaam,2026-08-13,2026-08-29,32937000.0,51941500.0,TZS,jobboard_a
+200330,2026-10,23,Chef de produit,FR,Lyon,2026-08-09,2026-08-16,49400.0,65100.0,EUR,jobboard_a
+200331,2026-10,6,Mobile Developer,KE,Kisumu,2026-07-18,2026-08-29,3723000.0,4339600.0,KES,jobboard_b
+200332,2026-10,17,Data Engineer,RW,Kigali,2026-09-17,,6600000.0,9336700.0,RWF,company_site
+200333,2026-10,29,QA Engineer,IN,Pune,2026-07-08,,1577000.0,1946700.0,INR,jobboard_a
+200334,2026-10,10,Software Engineer,NG,Abuja,2026-08-11,,10040000.0,13218200.0,NGN,company_site
+200335,2026-10,13,Finance Analyst,ZA,Johannesburg,2026-07-03,2026-07-16,613000.0,750600.0,ZAR,jobboard_b
+200336,2026-10,24,Chef de produit,FR,Lyon,2026-07-20,,50600.0,72100.0,EUR,jobboard_a
+200337,2026-10,14,Accountant,TZ,Arusha,2026-08-21,,9682000.0,11249200.0,TZS,jobboard_a
+200338,2026-10,12,Mobile Developer,ZA,Cape Town,2026-07-18,2026-08-01,880000.0,1163400.0,ZAR,jobboard_b
+200339,2026-10,17,UX Designer,RW,Kigali,2026-07-25,2026-09-04,10318000.0,15154100.0,RWF,jobboard_a
+200340,2026-10,31,QA Engineer,KE,Kisumu,2026-07-07,,,,,company_site
+200341,2026-10,35,Accountant,NG,Lagos,2026-09-25,,,,,jobboard_a
+200342,2026-10,13,Product Manager,ZA,Johannesburg,2026-07-29,2026-09-11,874000.0,1099400.0,ZAR,jobboard_a
+200343,2026-10,40,Software Engineer,GH,Accra,2026-07-30,2026-08-10,138000.0,169000.0,GHS,jobboard_b
+200344,2026-10,26,QA Engineer,US,New York,2026-07-23,,107100.0,80900.0,USD,company_site
+200345,2026-10,16,Finance Analyst,GH,Accra,2026-08-07,,259000.0,391700.0,GHS,jobboard_a
+200346,2026-10,7,Product Manager,KE,Kisumu,2026-09-03,,,,,jobboard_a
+200347,2026-10,26,Backend Engineer,US,New York,2026-07-10,2026-07-24,54800.0,70000.0,USD,jobboard_a
+200348,2026-10,27,UX Designer,US,New York,2026-07-23,,112500.0,142000.0,USD,jobboard_a
+200349,2026-10,27,Field Sales Rep,US,Austin,2026-08-21,2026-08-30,118400.0,154200.0,USD,jobboard_b
+200350,2026-10,19,Operations Lead,UG,Kampala,2026-07-08,2026-08-06,23564000.0,31902400.0,UGX,jobboard_a
+200351,2026-10,28,Finance Analyst,IN,Bengaluru,2026-08-02,,,,,company_site
+200352,2026-10,12,Software Engineer,ZA,Johannesburg,2026-08-05,2026-09-18,971000.0,1137700.0,ZAR,jobboard_b
+200353,2026-10,37,Finance Analyst,KE,Kisumu,2026-08-14,,4005000.0,5573000.0,KES,jobboard_a
+200354,2026-10,12,Backend Engineer,KE,Kisumu,2026-08-19,,,,,jobboard_b
+200355,2026-10,35,Accountant,NG,Abuja,2026-09-09,,3686000.0,4791300.0,NGN,jobboard_a
+200356,2026-10,26,Backend Engineer,US,New York,2026-07-26,2026-08-11,,,,jobboard_b
+200357,2026-10,21,Data Analyst,TZ,Arusha,2026-07-27,,9870000.0,15274800.0,TZS,jobboard_b
+200358,2026-10,30,Data Engineer,IN,Pune,2026-08-03,2026-08-18,1285000.0,1921400.0,INR,jobboard_b
+200359,2026-10,5,Software Engineer,KE,Mombasa,2026-09-10,,1952000.0,2702200.0,KES,jobboard_b
+200360,2026-10,16,QA Engineer,GH,Accra,2026-11-27,,67000.0,84100.0,GHS,company_site
+200361,2026-10,27,Mobile Developer,US,Austin,2026-07-07,2026-08-19,46900.0,73700.0,USD,jobboard_a
+200363,2026-10,18,Accountant,RW,Kigali,2026-08-03,,,,,jobboard_b
+200364,2026-10,10,Data Analyst,NG,Abuja,2026-08-27,,8285000.0,11761700.0,NGN,jobboard_a
+200365,2026-10,29,Accountant,IN,Bengaluru,2026-08-14,,1425000.0,1959900.0,INR,jobboard_b
+200366,2026-10,39,Accountant,GH,Accra,2026-08-15,,198000.0,269600.0,GHS,jobboard_a
+200367,2026-10,27,Data Scientist,US,Austin,2026-07-26,,44300.0,63200.0,USD,jobboard_a
+200368,2026-10,4,UX Designer,KE,Kisumu,2026-09-26,,1202000.0,1340600.0,KES,jobboard_a
+200369,2026-10,12,Software Engineer,ZA,Johannesburg,2026-09-01,,966000.0,1482700.0,ZAR,jobboard_a
+200370,2026-10,21,Sales Associate,TZ,Dar es Salaam,2026-08-29,,36559000.0,41684400.0,TZS,jobboard_a
+200372,2026-10,37,Field Sales Rep,KE,Kisumu,2026-09-10,,1085000.0,1204400.0,KES,jobboard_b
+200373,2026-10,7,Marketing Manager,KE,Nairobi,2026-08-19,,777000.0,942900.0,KES,jobboard_a
+200374,2026-10,19,Data Analyst,UG,Kampala,2026-07-05,2026-07-17,57809000.0,79987500.0,UGX,jobboard_b
+200376,2026-10,29,Accountant,IN,Bengaluru,2026-07-20,2026-08-06,308000.0,477600.0,INR,jobboard_a
+200377,2026-10,14,Operations Lead,ZA,Johannesburg,2026-08-25,,343000.0,500200.0,ZAR,company_site
+200378,2026-10,3,Software Engineer,FR,Lyon,2026-08-04,,31900.0,37600.0,EUR,jobboard_a
+200379,2026-10,906,Chef de produit,FR,Lyon,2026-08-27,,62300.0,74400.0,EUR,company_site
+200380,2026-10,21,UX Designer,TZ,Dar es Salaam,2026-09-04,,22058000.0,24355200.0,TZS,jobboard_a
+200381,2026-10,33,Accountant,KE,Kisumu,2026-09-23,,2716000.0,3851000.0,KES,jobboard_b
+200382,2026-10,24,Marketing Manager,FR,Lyon,2026-09-22,,53900.0,70300.0,EUR,jobboard_b
+200383,2026-10,10,Operations Lead,UG,Kampala,2026-09-15,,21743000.0,32755300.0,UGX,jobboard_b
+200384,2026-10,28,Data Scientist,IN,Pune,2026-08-31,,623000.0,741000.0,INR,company_site
+200385,2026-10,11,Finance Analyst,NG,Abuja,2026-08-13,,6231000.0,7741400.0,NGN,jobboard_a
+200386,2026-10,15,HR Manager,ZA,Cape Town,2026-09-05,,354000.0,434400.0,ZAR,jobboard_a
+200387,2026-10,16,Accountant,GH,Accra,2026-09-23,,236000.0,368700.0,GHS,company_site
+200388,2026-10,24,,FR,Lyon,2026-09-15,,,,,jobboard_b
+200389,2026-10,7,Mobile Developer,IN,Pune,2026-09-27,,,,,jobboard_b
+200390,2026-10,15,UX Designer,GH,Accra,2026-09-09,,,,,jobboard_a
+200391,2026-10,1,Data Analyst,RW,Kigali,2026-08-06,,9704000.0,15202600.0,RWF,jobboard_a
+200392,2026-10,29,HR Manager,IN,Pune,2026-09-14,,952000.0,1286200.0,INR,company_site
+200393,2026-10,30,Marketing Manager,IN,Bengaluru,2026-08-03,,382000.0,453200.0,INR,jobboard_b
+200394,2026-10,28,DevOps Engineer,RW,Kigali,2026-09-15,2026-09-27,5300000.0,8402600.0,RWF,jobboard_b
+200395,2026-10,28,Sales Associate,IN,Bengaluru,2026-09-25,,2581000.0,3006100.0,INR,jobboard_b
+200396,2026-10,40,Data Scientist,GH,Accra,2026-08-29,,257000.0,362400.0,GHS,jobboard_b
+200398,2026-10,20,Operations Lead,UG,Kampala,2026-07-07,,14442000.0,20621200.0,UGX,jobboard_b
+200399,2026-10,37,Data Analyst,KE,Nairobi,2026-09-21,,3570000.0,4904900.0,KES,company_site
+200400,2026-10,27,Software Engineer,US,Austin,2026-07-08,2026-07-23,123600.0,161200.0,USD,company_site
+200401,2026-10,29,HR Manager,IN,Bengaluru,2026-09-11,2026-09-30,2787000.0,4452600.0,INR,jobboard_b
+200402,2026-10,17,QA Engineer,RW,Kigali,2026-07-05,,2134000.0,2499400.0,RWF,jobboard_a
+200404,2026-10,22,Customer Support Agent,TZ,Arusha,2026-08-28,,41846000.0,49138500.0,TZS,jobboard_a
+200406,2026-10,32,Software Engineer,KE,Kisumu,2026-09-21,,3210000.0,4518100.0,KES,company_site
+200407,2026-10,7,UX Designer,KE,Mombasa,2026-08-18,,,,,jobboard_a
+200408,2026-10,18,Customer Support Agent,RW,Kigali,2026-09-20,2026-09-28,4323000.0,5350900.0,RWF,jobboard_a
+200409,2026-10,22,Accountant,TZ,Arusha,2026-09-03,,24932000.0,31849100.0,TZS,jobboard_b
+200410,2026-10,13,QA Engineer,ZA,Cape Town,2026-09-26,,,,,jobboard_b
+200411,2026-10,6,,TZ,Arusha,2026-08-09,,34320000.0,43404900.0,TZS,jobboard_b
+200412,2026-10,20,Data Engineer,UG,Kampala,2026-09-20,,17361000.0,25796300.0,UGX,jobboard_b
+200414,2026-10,2,Data Analyst,KE,Kisumu,2026-08-08,,2018000.0,2484600.0,KES,jobboard_b
+200415,2026-10,39,HR Manager,NG,Abuja,2026-07-06,,5683000.0,8923600.0,NGN,company_site
+200416,2026-10,38,Accountant,US,New York,2026-08-16,,46900.0,57700.0,USD,jobboard_a
+200417,2026-10,9,Marketing Manager,NG,Lagos,2026-08-02,2026-09-16,,,,jobboard_a
+200418,2026-10,39,HR Manager,NG,Lagos,2026-09-27,,,,,jobboard_a
+200420,2026-10,31,Backend Engineer,US,Austin,2026-07-05,,101600.0,154800.0,USD,jobboard_a
+200421,2026-10,32,Finance Analyst,KE,Kisumu,2026-10-21,,,,,jobboard_a
+200422,2026-10,13,Software Engineer,ZA,Johannesburg,2026-07-29,,514000.0,714200.0,ZAR,company_site
+200423,2026-10,24,UX Designer,FR,Lyon,2026-08-30,,49400.0,66800.0,EUR,jobboard_b
+200424,2026-10,21,Data Analyst,TZ,Dar es Salaam,2026-07-17,,,,,company_site
+200425,2026-10,38,Field Sales Rep,KE,Mombasa,2026-07-20,2026-08-17,3584000.0,5131000.0,KES,jobboard_a
+200426,2026-10,6,,KE,Mombasa,2026-09-06,,3776000.0,4184700.0,KES,jobboard_a
+200427,2026-10,3,Marketing Manager,KE,Kisumu,2026-09-28,,,,,jobboard_b
+200428,2026-10,30,UX Designer,IN,Pune,2026-08-20,2026-09-01,,,,jobboard_a
+200429,2026-10,22,Operations Lead,TZ,Dar es Salaam,2026-08-18,,33245000.0,40739600.0,TZS,jobboard_a
+200430,2026-10,27,Data Scientist,US,New York,2026-07-15,2026-07-30,,,,jobboard_b
+200431,2026-10,906,Accountant,US,New York,2026-07-28,,59000.0,75900.0,USD,jobboard_b
+200432,2026-10,13,Backend Engineer,Kenya,Kisumu,2026-07-15,2026-08-16,,,,jobboard_a
+200433,2026-10,12,Data Engineer,KE,Mombasa,2026-08-23,,,,,jobboard_b
+200434,2026-10,24,Product Manager,FR,Paris,2026-07-30,2026-09-10,51200.0,61600.0,EUR,jobboard_a
+200435,2026-10,22,Field Sales Rep,ZA,Johannesburg,2026-08-24,,,,,jobboard_a
+200436,2026-10,12,Data Scientist,IN,Bengaluru,2026-08-09,,2552000.0,3463800.0,INR,company_site
+200437,2026-10,28,Customer Support Agent,IN,Pune,2026-08-13,,,,,jobboard_b
+200438,2026-10,21,Mobile Developer,KE,Mombasa,2026-07-31,,946000.0,1117000.0,KES,jobboard_a
+200440,2026-10,26,Marketing Manager,US,New York,2026-07-09,2026-08-17,50600.0,58500.0,USD,jobboard_a
+200441,2026-10,20,Data Analyst,UG,Kampala,2026-09-29,,34145000.0,51199000.0,UGX,jobboard_b
+200442,2026-10,35,Customer Support Agent,NG,Abuja,2026-08-25,,,,,jobboard_a
+200443,2026-10,15,Marketing Manager,GH,Accra,2026-09-17,,,,,company_site
+200444,2026-10,24,Chef de produit,FR,Paris,2026-07-17,,31300.0,47800.0,EUR,company_site
+200445,2026-10,13,Sales Associate,GH,Accra,2026-07-10,2026-08-13,137000.0,212000.0,GHS,jobboard_b
+200446,2026-10,14,Operations Lead,KE,Nairobi,2026-08-18,2026-09-18,1020000.0,1288500.0,KES,jobboard_b
+200447,2026-10,33,Data Scientist,KE,Kisumu,2026-08-26,2026-09-25,3130000.0,3765700.0,KES,jobboard_a
+200448,2026-10,8,Product Manager,US,Austin,2026-08-26,,120200.0,151500.0,USD,jobboard_a
+200449,2026-10,40,Field Sales Rep,GH,Accra,2026-08-01,2026-09-03,144000.0,175500.0,GHS,jobboard_a
+200450,2026-10,31,DevOps Engineer,KE,Mombasa,2026-07-15,,4180000.0,4655100.0,KES,jobboard_b
+200451,2026-10,30,Sales Associate,IN,Pune,2026-09-15,,,,,company_site
+200452,2026-10,24,DÃ©veloppeur logiciel,FR,Lyon,2026-08-23,2026-09-15,,,,jobboard_a
+200453,2026-10,10,,NG,Abuja,2026-09-11,,11243000.0,14301500.0,NGN,company_site
+200454,2026-10,25,Sales Associate,FR,Lyon,2026-07-11,2026-08-25,50400.0,65500.0,EUR,jobboard_a
+200455,2026-10,31,QA Engineer,KE,Mombasa,2026-12-06,,766000.0,1138300.0,KES,jobboard_b
+200456,2026-10,7,Field Sales Rep,KE,Mombasa,2026-07-31,2026-08-31,,,,company_site
+200457,2026-10,9,Backend Engineer,GH,Accra,2026-07-21,,277000.0,432300.0,GHS,jobboard_a
+200458,2026-10,1,Data Scientist,KE,Nairobi,2026-08-31,,2548000.0,3168000.0,KES,jobboard_b
+200459,2026-10,28,Product Manager,IN,Pune,2026-09-30,,,,,jobboard_a
+200461,2026-10,33,Accountant,KE,Mombasa,2026-07-03,,2261000.0,3558900.0,KES,jobboard_b
+200462,2026-10,22,Software Engineer,TZ,Arusha,2026-08-14,2026-08-28,15223000.0,22087000.0,TZS,jobboard_a
+200463,2026-10,21,HR Manager,TZ,Dar es Salaam,2026-08-30,,,,,jobboard_b
+200464,2026-10,38,HR Manager,KE,Nairobi,2026-09-21,,1672000.0,1918700.0,KES,company_site
+200465,2026-10,14,Software Engineer,ZA,Cape Town,2026-09-27,,280000.0,313600.0,ZAR,jobboard_a
+200466,2026-10,34,Sales Associate,KE,Kisumu,2026-08-25,,1065000.0,1190900.0,KES,jobboard_a
+200468,2026-10,9,Data Analyst,NG,Lagos,2026-07-14,,15848000.0,19265900.0,NGN,jobboard_a
+200470,2026-10,38,Data Engineer,KE,Mombasa,2026-09-13,,1254000.0,1711800.0,KES,jobboard_a
+200471,2026-10,42,Finance Analyst,KE,Mombasa,2026-07-21,,,,,jobboard_a
+200472,2026-10,14,Data Scientist,ZA,Johannesburg,2026-08-18,,562800.0,427000.0,ZAR,jobboard_a
+200473,2026-10,902,Data Analyst,ZA,Johannesburg,2026-09-01,,1020000.0,1544100.0,ZAR,jobboard_a
+200474,2026-10,33,Product Manager,KE,Nairobi,2026-08-14,2026-08-24,2405000.0,3087700.0,KES,jobboard_b
+200475,2026-10,33,Accountant,KE,Mombasa,2026-09-16,,1317000.0,1849100.0,KES,jobboard_a
+200477,2026-10,13,HR Manager,ZA,Cape Town,2026-09-26,,550000.0,642900.0,ZAR,jobboard_a
+200478,2026-10,27,Product Manager,US,Austin,2026-09-16,,75700.0,94000.0,USD,jobboard_b
+200479,2026-10,19,Customer Support Agent,FR,Paris,2026-08-16,2026-08-28,59500.0,71300.0,EUR,company_site
+200480,2026-10,37,UX Designer,NG,Abuja,2026-08-11,2026-09-13,2166000.0,2522100.0,NGN,jobboard_a
+200481,2026-10,20,,UG,Kampala,2026-08-02,2026-08-21,78629000.0,97358000.0,UGX,jobboard_a
+200482,2026-10,25,Sales Associate,FR,Paris,2026-08-19,,62300.0,93900.0,EUR,company_site
+200483,2026-10,25,HR Manager,UG,Kampala,2026-09-25,,80327000.0,92063700.0,UGX,jobboard_b
+200484,2026-10,27,Mobile Developer,US,New York,2026-07-10,2026-07-24,81400.0,123800.0,USD,jobboard_a
+200485,2026-10,6,Software Engineer,KE,Kisumu,2026-09-15,,2750000.0,3754800.0,KES,jobboard_a
+200486,2026-10,12,Backend Engineer,IN,Bengaluru,2026-08-23,,669000.0,841500.0,INR,jobboard_b
+200487,2026-10,23,Chef de produit,FR,Lyon,2026-07-15,,25700.0,38200.0,EUR,jobboard_a
+200489,2026-10,4,,KE,Mombasa,2026-08-31,,1647000.0,2564500.0,KES,company_site
+200490,2026-10,6,Customer Support Agent,KE,Nairobi,2026-08-25,2026-09-12,965000.0,1419200.0,KES,jobboard_b
+200491,2026-10,22,Data Scientist,KE,Nairobi,2026-09-20,,1594000.0,1768300.0,KES,jobboard_a
+200493,2026-10,39,Accountant,TZ,Dar es Salaam,2026-08-10,2026-08-27,46470000.0,66979200.0,TZS,jobboard_a
+200494,2026-10,42,Data Analyst,KE,Nairobi,2026-08-14,,884000.0,1024100.0,KES,company_site
+200495,2026-10,16,Data Scientist,GH,Accra,2026-09-14,,53000.0,83300.0,GHS,jobboard_a
+200496,2026-10,9,Data Analyst,ZA,Johannesburg,2026-08-30,,748000.0,903700.0,ZAR,company_site
+200497,2026-10,27,Data Engineer,US,Austin,2026-09-30,,92900.0,127200.0,USD,jobboard_a
+200498,2026-10,30,UX Designer,IN,Pune,2026-08-19,2026-09-19,1342000.0,1656900.0,INR,jobboard_a
+200499,2026-10,23,Data Scientist,FR,Lyon,2026-07-15,2026-07-24,28200.0,32200.0,EUR,jobboard_a
+200500,2026-10,22,Data Analyst,GH,Accra,2026-08-09,,176000.0,275200.0,GHS,jobboard_a
+200501,2026-10,23,Accountant,US,New York,2026-07-13,,,,,company_site
+200502,2026-10,28,Operations Lead,IN,Pune,2026-09-04,,2086000.0,2657500.0,INR,jobboard_a
+200503,2026-10,26,HR Manager,US,Austin,2026-09-27,,99800.0,114000.0,USD,jobboard_a
+200504,2026-10,1,,KE,Mombasa,2026-09-03,,3204000.0,4897800.0,KES,jobboard_b
+200505,2026-10,30,QA Engineer,IN,Pune,2026-09-17,,1530000.0,1930300.0,INR,company_site
+200506,2026-10,30,Operations Lead,IN,Pune,2026-09-08,,716000.0,856300.0,INR,company_site
+200507,2026-10,34,QA Engineer,FR,Lyon,2026-09-18,,,,,jobboard_a
+200508,2026-10,2,Backend Engineer,KE,Mombasa,2026-09-25,,,,,company_site
+200509,2026-10,22,Sales Associate,TZ,Dar es Salaam,2026-08-24,2026-09-14,51035000.0,65653600.0,TZS,jobboard_a
+200510,2026-10,15,Data Scientist,GH,Accra,2026-07-16,2026-07-12,191000.0,272300.0,GHS,jobboard_a
+200511,2026-10,5,DevOps Engineer,KE,Nairobi,2026-09-15,,1049000.0,1420500.0,KES,jobboard_a
+200512,2026-10,21,QA Engineer,ZA,Johannesburg,2026-09-18,,657000.0,762100.0,ZAR,company_site
+200513,2026-10,1,Backend Engineer,KE,Kisumu,2026-09-29,,2718000.0,4181800.0,KES,jobboard_a
+200514,2026-10,4,Operations Lead,KE,Mombasa,2026-08-09,2026-09-13,,,,jobboard_b
+200515,2026-10,14,Data Scientist,ZA,Cape Town,2026-07-12,,915000.0,1173600.0,ZAR,company_site
+200516,2026-10,14,Data Analyst,ZA,Johannesburg,2026-07-23,,428000.0,560100.0,ZAR,company_site
+200517,2026-10,11,Finance Analyst,NG,Lagos,2026-08-15,2026-09-08,18292000.0,25926100.0,NGN,jobboard_a
+200518,2026-10,17,Ingénieur QA,FR,Lyon,2026-08-26,2026-09-07,47700.0,69800.0,EUR,jobboard_a
+200519,2026-10,34,Data Scientist,RW,Kigali,2026-08-19,2026-09-04,4060000.0,5440900.0,RWF,company_site
+200520,2026-10,13,Operations Lead,ZA,Johannesburg,2026-08-09,,857000.0,1363600.0,ZAR,company_site
+200521,2026-10,22,Sales Associate,TZ,Dar es Salaam,2026-09-26,,13819000.0,18486200.0,TZS,company_site
+200522,2026-10,18,Software Engineer,RW,Kigali,2026-08-11,,2471000.0,3433500.0,RWF,jobboard_a
+200523,2026-10,10,QA Engineer,NG,Lagos,2026-08-30,,-17945000.0,25648700.0,NGN,jobboard_a
+200524,2026-10,27,Field Sales Rep,US,New York,2026-07-11,2026-08-17,,,,company_site
+200525,2026-10,24,DÃ©veloppeur logiciel,FR,Lyon,2026-07-27,2026-08-13,47200.0,59700.0,EUR,jobboard_a
+200526,2026-10,19,Accountant,UG,Kampala,2026-08-10,2026-08-31,,,,jobboard_b
+200528,2026-10,2,Data Engineer,IN,Pune,2026-08-18,2026-09-01,,,,jobboard_b
+200529,2026-10,1,DevOps Engineer,KE,Mombasa,2026-09-24,,3566000.0,4529200.0,KES,company_site
+200530,2026-10,4,Operations Lead,KE,Kisumu,2026-08-05,,342900000.0,521820000.0,KES,company_site
+200531,2026-10,39,Software Engineer,NG,Abuja,2026-09-09,,9974000.0,14121900.0,NGN,jobboard_a
+200532,2026-10,39,Field Sales Rep,NG,Abuja,2026-09-26,,6624000.0,9471500.0,NGN,jobboard_a
+200534,2026-10,14,Finance Analyst,ZA,Johannesburg,2026-07-16,,637000.0,723300.0,ZAR,company_site
+200535,2026-10,39,Backend Engineer,NG,Abuja,2026-07-22,,10519000.0,14451200.0,NGN,jobboard_a
+200536,2026-10,33,Operations Lead,KE,Mombasa,2026-08-19,2026-09-16,1366000.0,1568900.0,KES,jobboard_a
+200537,2026-10,6,Sales Associate,KE,Kisumu,2026-09-01,,3275000.0,4604700.0,KES,jobboard_b
+200538,2026-10,35,Marketing Manager,UG,Kampala,2026-08-20,,13462000.0,16047600.0,UGX,jobboard_b
+200539,2026-10,21,HR Manager,TZ,Dar es Salaam,2026-09-04,,55320000.0,81937800.0,TZS,jobboard_a
+200540,2026-10,40,Backend Engineer,GH,Accra,2026-07-15,,279000.0,387700.0,GHS,company_site
+200541,2026-10,22,Data Analyst,TZ,Dar es Salaam,2026-07-18,,22777000.0,35461400.0,TZS,jobboard_a
+200542,2026-10,31,HR Manager,KE,Mombasa,2026-08-30,,3466000.0,5265800.0,KES,jobboard_a
+200543,2026-10,3,Product Manager,KE,Nairobi,2026-08-24,,3359000.0,4169600.0,KES,company_site
+200544,2026-10,15,,GH,Accra,2026-08-18,,,,,jobboard_b
+200545,2026-10,12,Field Sales Rep,ZA,Cape Town,2026-08-01,,175000.0,253700.0,ZAR,jobboard_a
+200546,2026-10,26,Sales Associate,US,Austin,2026-07-13,,110600.0,152400.0,USD,company_site
+200547,2026-10,904,Software Engineer,RW,Kigali,2026-09-21,,3856000.0,4499300.0,RWF,company_site
+200548,2026-10,7,Accountant,NG,Lagos,2026-08-27,,,,,company_site
+200550,2026-10,12,UX Designer,ZA,Johannesburg,2026-07-03,,240000.0,347700.0,ZAR,jobboard_a
+200551,2026-10,24,Accountant,FR,Paris,2026-09-09,,35200.0,40400.0,EUR,jobboard_a
+200552,2026-10,1,Data Engineer,KE,Nairobi,2026-08-17,2026-08-24,2574400.0,2125000.0,KES,jobboard_a
+200553,2026-10,1,Finance Analyst,ke,Mombasa,2026-08-25,,3299000.0,5093900.0,KES,jobboard_a
+200554,2026-10,16,Software Engineer,KE,Kisumu,2026-09-05,2026-08-20,3334000.0,4273400.0,KES,jobboard_b
+200555,2026-10,14,Finance Analyst,ZA,Cape Town,2026-09-15,,218000.0,329200.0,ZAR,jobboard_a
+200556,2026-10,25,Ingénieur QA,FR,Lyon,2026-09-14,,62000.0,97600.0,EUR,jobboard_b
+200557,2026-10,42,Sales Associate,KE,Kisumu,2026-09-12,,838000.0,922000.0,KES,jobboard_a
+200558,2026-10,42,QA Engineer,KE,Mombasa,2026-07-24,,3730000.0,5948200.0,KES,jobboard_b
+200559,2026-10,6,Operations Lead,ZA,Johannesburg,2026-08-03,,162000.0,232400.0,ZAR,jobboard_a
+200561,2026-10,19,Finance Analyst,UG,Kampala,2026-07-20,,,,,jobboard_a
+200562,2026-10,18,Field Sales Rep,RW,Kigali,2026-09-02,,3881000.0,4434000.0,RWF,jobboard_a
+200563,2026-10,39,Backend Engineer,NG,Lagos,2026-07-20,,15642000.0,24788900.0,NGN,jobboard_a
+200564,2026-10,17,UX Designer,RW,Kigali,2026-09-16,,,,,jobboard_a
+200565,2026-10,36,HR Manager,NG,Abuja,2026-07-07,,15375000.0,19335200.0,NGN,jobboard_a
+200566,2026-10,30,Product Manager,IN,Pune,2026-07-13,2026-08-20,1385000.0,1846700.0,INR,company_site
+200567,2026-10,22,Backend Engineer,TZ,Arusha,2026-09-26,,9739000.0,13946400.0,TZS,jobboard_b
+200568,2026-10,30,Data Scientist,IN,Pune,2026-07-21,,1300000.0,1989500.0,INR,company_site
+200569,2026-10,34,Data Scientist,US,New York,2026-09-26,,52500.0,81800.0,USD,jobboard_a
+200571,2026-10,38,DevOps Engineer,KE,Kisumu,2026-09-05,,,,,jobboard_b
+200572,2026-10,32,Product Manager,KE,Mombasa,2026-07-25,,648000.0,998600.0,KES,jobboard_b
+200573,2026-10,39,DevOps Engineer,NG,Lagos,2026-09-23,2026-09-20,14698000.0,17235800.0,NGN,jobboard_a
+200574,2026-10,1,Product Manager,KE,Kisumu,2026-07-24,,3557000.0,3987300.0,KES,jobboard_a
+200575,2026-10,39,Software Engineer,KE,Nairobi,2026-07-12,,,,,company_site
+200576,2026-10,36,Software Engineer,NG,Abuja,2026-08-21,,18714000.0,24504300.0,NGN,jobboard_a
+200577,2026-10,16,Software Engineer,US,New York,2026-07-27,,,,,jobboard_b
+200578,2026-10,42,Sales Associate,KE,Kisumu,2026-07-17,,2378000.0,3341800.0,KES,jobboard_b
+200579,2026-10,14,Finance Analyst,ZA,Johannesburg,2026-09-15,,1042000.0,1487700.0,ZAR,jobboard_a
+200580,2026-10,4,DevOps Engineer,KE,Mombasa,2026-07-16,2026-08-26,2858000.0,3212500.0,KES,jobboard_b
+200581,2026-10,13,Product Manager,TZ,Dar es Salaam,2026-09-28,,8399000.0,9710600.0,TZS,company_site
+200583,2026-10,26,QA Engineer,US,New York,2026-07-25,,113200.0,158900.0,USD,jobboard_a
+200584,2026-10,42,Software Engineer,KE,Kisumu,2026-09-08,,2888000.0,4560000.0,KES,company_site
+200585,2026-10,16,Mobile Developer,GH,Accra,2026-08-30,,157000.0,205700.0,GHS,jobboard_a
+200586,2026-10,12,Sales Associate,ZA,Cape Town,2026-08-25,2026-09-17,909000.0,1265700.0,ZAR,jobboard_b
+200587,2026-10,16,Backend Engineer,GH,Accra,2026-09-21,,,,,jobboard_b
+200588,2026-10,5,HR Manager,Kenya,Kisumu,2026-08-24,,1831000.0,2391800.0,KES,jobboard_a
+200589,2026-10,29,Data Scientist,IN,Pune,2026-07-07,2026-08-03,,,,company_site
+200590,2026-10,3,Data Analyst,KE,Kisumu,2026-09-29,,3927000.0,5138800.0,KES,jobboard_b
+200591,2026-10,9,Customer Support Agent,NG,Lagos,2026-09-27,,19614000.0,22487200.0,NGN,company_site
+200592,2026-10,9,DevOps Engineer,NG,Abuja,2026-09-07,,12770000.0,14416600.0,NGN,company_site
+200593,2026-10,27,Marketing Manager,US,New York,2026-08-10,2026-08-26,103300.0,141900.0,USD,company_site
+200595,2026-10,12,Mobile Developer,ZA,Johannesburg,2026-07-13,2026-08-01,1017000.0,1480100.0,ZAR,company_site
+200596,2026-10,22,Data Engineer,TZ,Dar es Salaam,2026-09-07,,9889000.0,12865700.0,TZS,company_site
+200597,2026-10,20,UX Designer,UG,Kampala,2026-08-10,2026-09-08,12341000.0,16212300.0,UGX,company_site
+200598,2026-10,21,HR Manager,TZ,Arusha,2026-09-27,,45322000.0,52362300.0,TZS,jobboard_b
+200599,2026-10,17,HR Manager,RW,Kigali,2026-09-09,,,,,jobboard_a
+200600,2026-10,29,Accountant,IN,Bengaluru,2026-08-26,2026-09-20,937000.0,1276800.0,INR,company_site
+200601,2026-10,12,Marketing Manager,ZA,Cape Town,2026-07-21,2026-09-04,462000.0,675200.0,ZAR,jobboard_a
+200602,2026-10,42,Operations Lead,KE,Nairobi,2026-07-26,2026-08-02,1804000.0,2487500.0,KES,jobboard_a
+200603,2026-10,6,HR Manager,KE,Nairobi,2026-09-09,,2990000.0,4256200.0,KES,jobboard_b
+200604,2026-10,28,Field Sales Rep,IN,Pune,2026-08-19,,440000.0,604400.0,INR,jobboard_a
+200605,2026-10,19,Software Engineer,UG,Kampala,2026-09-13,,14134000.0,17630900.0,UGX,company_site
+200606,2026-10,40,Field Sales Rep,GH,Accra,2026-07-18,,229000.0,297800.0,GHS,jobboard_a
+200607,2026-10,27,Software Engineer,US,Austin,2026-07-22,2026-08-11,62600.0,85400.0,USD,jobboard_b
+200608,2026-10,27,Data Engineer,US,New York,2026-07-15,,61000.0,94400.0,USD,jobboard_b
+200609,2026-10,18,Sales Associate,RW,Kigali,2026-12-08,,5872000.0,6943700.0,RWF,jobboard_a
+200610,2026-10,29,QA Engineer,IN,Bengaluru,2026-08-21,2026-09-19,943000.0,1457200.0,INR,company_site
+200611,2026-10,14,Data Scientist,KE,Mombasa,2026-07-27,,1171000.0,1527400.0,KES,jobboard_b
+200612,2026-10,30,DevOps Engineer,IN,Bengaluru,2026-07-21,,2115000.0,3167800.0,INR,jobboard_a
+200613,2026-10,4,Data Scientist,KE,Kisumu,2026-09-26,,2066000.0,3200600.0,KES,company_site
+200614,2026-10,21,Customer Support Agent,NG,Abuja,2026-09-29,,5868000.0,7170800.0,NGN,jobboard_a
+200615,2026-10,21,Operations Lead,TZ,Dar es Salaam,2026-09-26,,51443000.0,70361500.0,TZS,jobboard_a
+200616,2026-10,20,HR Manager,UG,Kampala,2026-07-25,,36799000.0,49867300.0,UGX,company_site
+200617,2026-10,25,DÃ©veloppeur logiciel,FR,Paris,2026-08-05,,,,,jobboard_a
+200618,2026-10,12,Product Manager,US,New York,2026-09-18,,121700.0,153100.0,USD,jobboard_b
+200619,2026-10,30,UX Designer,IN,Pune,2026-09-07,2026-09-16,1160000.0,1367300.0,INR,jobboard_a
+200620,2026-10,9,Backend Engineer,NG,Lagos,2026-07-23,2026-08-02,,,,company_site
+200621,2026-10,24,QA Engineer,KE,Kisumu,2026-09-19,,3832000.0,4412200.0,KES,jobboard_a
+200622,2026-10,23,Sales Associate,ZA,Johannesburg,2026-07-11,2026-08-07,630000.0,763200.0,ZAR,company_site
+200623,2026-10,21,Backend Engineer,TZ,Arusha,2026-09-22,,32563000.0,41453600.0,TZS,company_site
+200624,2026-10,29,UX Designer,IN,Pune,2026-09-23,,1302000.0,1463900.0,INR,jobboard_b
+200625,2026-10,25,Analyste de données,FR,Paris,2026-09-01,2026-09-24,59600.0,72000.0,EUR,company_site
+200626,2026-10,22,Data Engineer,TZ,Dar es Salaam,2026-09-13,,51169000.0,62766800.0,TZS,jobboard_b
+200627,2026-10,28,Sales Associate,IN,Pune,2026-08-19,2026-09-11,1542000.0,2465500.0,INR,company_site
+200628,2026-10,13,Marketing Manager,ZA,Cape Town,2026-09-21,,910000.0,1379300.0,ZAR,company_site
+200629,2026-10,20,Operations Lead,UG,Kampala,2026-09-15,,,,,jobboard_a
+200630,2026-10,36,Data Analyst,KE,Nairobi,2026-09-25,,3183000.0,4763500.0,KES,jobboard_b
+200631,2026-10,24,DÃ©veloppeur logiciel,FR,Paris,2026-07-18,2026-08-02,,,,jobboard_a
+200632,2026-10,30,Data Analyst,IN,Pune,2026-09-08,2026-09-23,2091000.0,2932500.0,INR,jobboard_a
+200633,2026-10,6,Data Analyst,RW,Kigali,2026-07-10,,5411000.0,6254000.0,RWF,jobboard_b
+200634,2026-10,17,QA Engineer,RW,Kigali,2026-09-16,,13681000.0,16598300.0,RWF,company_site
+200635,2026-10,25,HR Manager,FR,Paris,2026-07-06,,40200.0,63300.0,EUR,jobboard_a
+200636,2026-10,23,Data Engineer,FR,Lyon,2026-09-28,,40300.0,54700.0,EUR,jobboard_a
+200637,2026-10,30,Field Sales Rep,IN,Pune,2026-08-28,2026-09-22,2492000.0,3150900.0,INR,jobboard_a
+200638,2026-10,25,Ingénieur QA,FR,Paris,2026-07-25,,47100.0,63800.0,EUR,company_site
+200639,2026-10,22,UX Designer,TZ,Dar es Salaam,2026-09-19,,50739000.0,75008800.0,TZS,jobboard_a
+200640,2026-10,5,Data Scientist,KE,Nairobi,2026-07-20,,730000.0,1138700.0,KES,company_site
+200641,2026-10,18,Customer Support Agent,TZ,Arusha,2026-08-15,2026-09-06,16296000.0,25218500.0,TZS,company_site
+200642,2026-10,22,Data Engineer,TZ,Arusha,2026-08-31,,12133000.0,19115600.0,TZS,company_site
+200643,2026-10,30,Accountant,IN,Pune,2026-09-01,,901000.0,1051000.0,INR,company_site
+200644,2026-10,16,Marketing Manager,GH,Accra,2026-08-08,2026-09-17,,,,company_site
+200645,2026-10,6,Data Engineer,KE,Mombasa,2026-09-20,,2569000.0,3901400.0,KES,jobboard_a
+200646,2026-10,19,Mobile Developer,UG,Kampala,2026-08-08,2026-08-17,77843000.0,109176600.0,UGX,jobboard_b
+200647,2026-10,25,Chef de produit,FR,Paris,2026-08-24,2026-09-19,52100.0,58200.0,EUR,jobboard_b
+200648,2026-10,2,Product Manager,ke,Nairobi,2026-09-14,,1025000.0,1413200.0,KES,jobboard_a
+200649,2026-10,16,Accountant,GH,Accra,2026-09-17,,262000.0,331900.0,GHS,jobboard_a
+200650,2026-10,40,Data Analyst,KE,Kisumu,2026-08-13,,,,,jobboard_a
+200651,2026-10,33,Mobile Developer,Kenya,Nairobi,2026-07-18,,2958000.0,3655400.0,KES,jobboard_a
+200652,2026-10,27,Data Engineer,US,Austin,2026-08-01,,96900.0,131100.0,USD,jobboard_b
+200653,2026-10,24,Analyste de données,FR,Paris,2026-09-05,,40300.0,52000.0,EUR,jobboard_a
+200654,2026-10,24,Ingénieur QA,FR,Paris,2026-09-01,2026-09-14,33200.0,52100.0,EUR,company_site
+200655,2026-10,18,Field Sales Rep,RW,Kigali,2026-08-26,,11483000.0,14838200.0,RWF,jobboard_a
+200656,2026-10,18,Software Engineer,RW,Kigali,2026-08-11,,2471000.0,3433500.0,RWF,jobboard_a
+200657,2026-10,21,UX Designer,TZ,Dar es Salaam,2026-09-04,,22058000.0,24355200.0,TZS,jobboard_a
+200658,2026-10,20,Software Engineer,UG,Kampala,2026-08-17,2026-09-23,38783000.0,57483400.0,UGX,jobboard_b
+200659,2026-10,25,Analyste de données,FR,Paris,2026-09-01,2026-09-24,59600.0,72000.0,EUR,company_site
+200660,2026-10,16,Finance Analyst,GH,Accra,2026-08-07,,259000.0,391700.0,GHS,jobboard_a
+200661,2026-10,16,Accountant,GH,Accra,2026-09-17,,262000.0,331900.0,GHS,jobboard_a
+200662,2026-10,23,Data Engineer,FR,Lyon,2026-09-28,,40300.0,54700.0,EUR,jobboard_a
+200663,2026-10,23,Data Scientist,FR,Lyon,2026-07-15,2026-07-24,28200.0,32200.0,EUR,jobboard_a
+200664,2026-10,36,Field Sales Rep,NG,Abuja,2026-08-16,,16864000.0,21418800.0,NGN,company_site
+200665,2026-10,17,Software Engineer,RW,Kigali,2026-08-26,,9828000.0,13073500.0,RWF,jobboard_a
+200666,2026-10,18,Field Sales Rep,RW,Kigali,2026-08-26,,11483000.0,14838200.0,RWF,jobboard_a
+200667,2026-10,23,Accountant,US,New York,2026-07-13,,,,,company_site
+200668,2026-10,24,QA Engineer,KE,Kisumu,2026-09-19,,3832000.0,4412200.0,KES,jobboard_a
+200669,2026-10,36,HR Manager,NG,Lagos,2026-07-25,,3440000.0,4715100.0,NGN,jobboard_a
+200670,2026-10,5,Marketing Manager,KE,Mombasa,2026-07-14,,3443000.0,4836500.0,KES,jobboard_b
